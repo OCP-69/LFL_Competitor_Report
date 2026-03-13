@@ -1,0 +1,2157 @@
+[Xiayang Gu] 15:36:10
+Seit 2.000.
+
+[Xiayang Gu] 15:36:16
+Könnt Euch ja.
+
+[Xiayang Gu] 15:36:19
+Weil ich.
+
+[Olaf Pick] 15:36:22
+Du kommst jetzt gerade so ein bisschen abgehakt drüber.
+
+[Xiayang Gu] 15:36:25
+Ja, genau es kann sein. Meine Haare wird ein bisschen überfordert.
+
+[Olaf Pick] 15:36:30
+Okay.
+
+[Xiayang Gu] 15:36:31
+Die Grafikkarte bisschen überhitzt, aber.
+
+[Xiayang Gu] 15:36:38
+Versuche ich mal ein bisschen langsamer, wenn da ein Problem gibt, sag mal Bescheid, und ich gucke mal, ob ich dann wiederholen kann.
+
+[Olaf Pick] 15:36:44
+Yeah?
+
+[Olaf Pick] 15:36:45
+In Ordnung. Klar danke.
+
+[Xiayang Gu] 15:36:46
+No.
+
+[Mouaz Al Qudsi] 15:36:46
+Discrete manufacturing optimization problem.
+
+[Xiayang Gu] 15:36:50
+So, um ja, ich bin dann seit 2.014, glaube ich, in Deutschland, und da habe ich erst mal 2 Jahre Techniker als Maschinenbautechniker.
+
+[Xiayang Gu] 15:37:01
+Eine Privatschule gemacht und dann seit 2.016 quasi bis 2.020.
+
+[Xiayang Gu] 15:37:09
+Da habe ich Maschinenbau Bachelor gemacht, also an der Hochschule. Hannover.
+
+[Xiayang Gu] 15:37:15
+und damals hatte ich schon an der Formel.
+
+[Xiayang Gu] 15:37:20
+Ah. Student in.
+
+[Xiayang Gu] 15:37:24
+Um.
+
+[Xiayang Gu] 15:37:27
+It's like. Also.
+
+[Xiayang Gu] 15:37:31
+Fahrzeug konstruiert und auch.
+
+[Xiayang Gu] 15:37:35
+Ja, wir sind auch viele Cr-programme gearbeitet.
+
+[Xiayang Gu] 15:37:39
+und dann ist halt sehr die und Fem oder Cfd noch gut zusammengespielt. Aber am Ende meiner Bachelorarbeit.
+
+[Xiayang Gu] 15:37:49
+Auch bis hin über Simulation geschrieben und auch Konstruktion auch ein bisschen berechnen.
+
+[Xiayang Gu] 15:37:56
+und danach steige ich da ein bisschen tiefer in Bereiche quasi Berechnungsingenieur im Master und an der Tu Braunschweig.
+
+[Xiayang Gu] 15:38:05
+Dann mache ich immer weiter, und dann habe ich auch bisschen intensiv.
+
+[Xiayang Gu] 15:38:11
+Eine Institute. Wir sind auch kleine, 2 Komponenten. Messwagen.
+
+[Xiayang Gu] 15:38:18
+Im Windkanal gemacht, sowohl Auftrieb als auch Widerstandsmessung.
+
+[Xiayang Gu] 15:38:25
+und dann.
+
+[Xiayang Gu] 15:38:27
+Ich glaube, ungefähr 2 Jahren.
+
+[Xiayang Gu] 15:38:32
+Seit 2.008 oder ab. 2.013 habe ich dann beim Edak. Das ist eine Ding.
+
+[Xiayang Gu] 15:38:39
+Druck für Automobilindustrie.
+
+[Xiayang Gu] 15:38:43
+und dann hauptsächlich in den Bereich Berechnungslinie.
+
+[Xiayang Gu] 15:38:48
+Aber die ersten Halbjahr war ein bisschen Hardwareversuch auf der Vw Fläche für cröscht Versuche.
+
+[Xiayang Gu] 15:38:55
+und dann.
+
+[Xiayang Gu] 15:38:57
+Da es hauptsächlich für die Berechnungen zuständig und dann auch bisschen Prozessautomatisierung mit Python.
+
+[Xiayang Gu] 15:39:04
+und dann Maßarbeit habe ich dann Fische, die.
+
+[Xiayang Gu] 15:39:08
+Quasi neue Technologie mit Machines Learning habe ich da ein bisschen geschrieben mit der Programmierung.
+
+[Xiayang Gu] 15:39:15
+und dann, Ende Ende September, da bin ich dann komplett fertig mit Master und.
+
+[Xiayang Gu] 15:39:22
+Da bin ich quasi halt gerade eben auf der Suche nach Festanstellung.
+
+[Xiayang Gu] 15:39:25
+Da habe ich dann von Leo, was gehört von euch und dann Erfahrung, dass ich da, was für euch nochmal erzähle, mit sehr.
+
+[Xiayang Gu] 15:39:35
+Die oder also kennt.
+
+[Xiayang Gu] 15:39:37
+Kernbereiche und vielleicht.
+
+[Xiayang Gu] 15:39:40
+Was ich da auch dazu sehe, was eher dann nochmal.
+
+[Xiayang Gu] 15:39:43
+Man genauer hören möchte.
+
+[Olaf Pick] 15:39:46
+Yeah, super, du Danke erst mal für den kurzen Abriss.
+
+[Olaf Pick] 15:39:49
+Also, ich finde das sehr spannend, dass du.
+
+[Olaf Pick] 15:39:53
+Die Prozesse.
+
+[Olaf Pick] 15:39:55
+Auch mit Automatisierungs und Digitalisierungsaspekten verbindest und auch Ki an das Thema mit reingebracht hast. Ich denke, das.
+
+[Olaf Pick] 15:40:03
+Machen wahrscheinlich im Moment einige, aber.
+
+[Olaf Pick] 15:40:06
+In vielen Organisationen ist das noch nicht wirklich angekommen.
+
+[Olaf Pick] 15:40:11
+und uns treibt im Endeffekt, um besser verstehen zu wollen, wie der typische Produkt.
+
+[Olaf Pick] 15:40:17
+Designprozess.
+
+[Olaf Pick] 15:40:18
+Von der Idee bis zur Produktion.
+
+[Olaf Pick] 15:40:22
+Läuft in so einem Unternehmen, was du gerade beschrieben hast, unter Zuhilfenahme.
+
+[Olaf Pick] 15:40:28
+Von Cad Cae und Crm, Software.
+
+[Olaf Pick] 15:40:32
+Was du konkret für Erfahrungen gemacht hast, was du da konkret siehst.
+
+[Olaf Pick] 15:40:36
+Das wäre gut, wenn wir da jetzt quasi als nächstes drauf eingehen können, dass du vielleicht mal so einen typischen.
+
+[Olaf Pick] 15:40:41
+Prozessablauf, so wie du ihn mitgemacht hast, beschreibst. Wo startet die eigentliche Idee.
+
+[Olaf Pick] 15:40:47
+Wie geht es dann konkret weiter? Wann wird das erste Mal so ein Cad-system eingesetzt?
+
+[Olaf Pick] 15:40:53
+Wo kriegst du die Daten her also, dass wir ein Gefühl und Verständnis dafür bekommen? Wie sieht.
+
+[Olaf Pick] 15:40:57
+Das tatsächlich aus, bei dir.
+
+[Xiayang Gu] 15:41:06
+Genau.
+
+[Xiayang Gu] 15:41:07
+Also, abgesehen vom Formular Studentin, das ist dann halt Sonderfertigung oder Sonderdesign.
+
+[Xiayang Gu] 15:41:14
+Aber normalerweise zum Beispiel, dass diese 2 Komponenten messwagen ist.
+
+[Xiayang Gu] 15:41:19
+Institut habe ich dann so gemacht, erst mal.
+
+[Xiayang Gu] 15:41:24
+Die Anforderungsliste, was sie da halt haben möchten und.
+
+[Xiayang Gu] 15:41:29
+Was Sie für die Benutzung, die Begrenzung, die Kraftmessung, in welchem Bereiche wir haben möchten, und die Größe von Windkanal.
+
+[Xiayang Gu] 15:41:37
+und also auf jeden war ersten die Analyse und in welcher Dimension, was ich dann halt diese Komponenten haben möchte.
+
+[Xiayang Gu] 15:41:47
+und für solche Komponenten, da am meisten auch.
+
+[Xiayang Gu] 15:41:51
+Wir sind Kugellager da drin.
+
+[Xiayang Gu] 15:41:54
+und dann gucke ich mal halt so weit möglich, diese Norm teils zu benutzen.
+
+[Xiayang Gu] 15:42:01
+und dann nochmal konkret Designtechnik nochmal gucken, wie ich dann kombinieren kann. Wie sind.
+
+[Xiayang Gu] 15:42:08
+Diese Kraftträger.
+
+[Xiayang Gu] 15:42:13
+Ob das ein.
+
+[Xiayang Gu] 15:42:21
+Bestmöglich die.
+
+[Xiayang Gu] 15:42:23
+Nomenteile quasi zu benutzen.
+
+[Xiayang Gu] 15:42:25
+und so weit nomenteig gibt. Da vielleicht berechne ich mal diese Kräfte usw., was ich benötige.
+
+[Xiayang Gu] 15:42:32
+und manche Unternehmen kann man direkt bei Kraft eingeben, dann wird dann direkt ausgegeben, wie der Profiler, was man braucht.
+
+[Xiayang Gu] 15:42:41
+und dann, und da wirklich um die Sonderfertigung geht, dass da halt gar keine Unternehmen findet, dass sie da.
+
+[Xiayang Gu] 15:42:49
+Also Angebot gibt.
+
+[Xiayang Gu] 15:42:52
+Dann greife ich da erst mal Crd ein und.
+
+[Xiayang Gu] 15:42:56
+Das ist halt je nach, was man braucht oder was man zurzeit hat.
+
+[Xiayang Gu] 15:43:01
+Für Software. Da benutze ich da halt auch am Institut ist dann Kcav 5.
+
+[Xiayang Gu] 15:43:09
+und beim Vor da hatten wir.
+
+[Xiayang Gu] 15:43:14
+Lange Zeit mit Krebs.
+
+[Xiayang Gu] 15:43:16
+Jugend arbeitet und dann noch.
+
+[Xiayang Gu] 15:43:20
+You were contacts.
+
+[Mouaz Al Qudsi] 15:43:20
+Mit. Was hast du gearbeitet? Entschuldigung.
+
+[Xiayang Gu] 15:43:22
+und ja, je nachdem.
+
+[Xiayang Gu] 15:43:26
+Yeah?
+
+[Mouaz Al Qudsi] 15:43:26
+Wie heißt der Softwarekrebs oder.
+
+[Mouaz Al Qudsi] 15:43:29
+Ich habe das nicht richtig gehört.
+
+[Xiayang Gu] 15:43:30
+Yeah?
+
+[Xiayang Gu] 15:43:32
+Uh creo creo parametic.
+
+[Xiayang Gu] 15:43:35
+You know. und da gibt es auch Siemens Eniex, und da gibt es auch noch andere.
+
+[Xiayang Gu] 15:43:43
+und.
+
+[Xiayang Gu] 15:43:49
+und Katsia V5, die sind sehr gängig. Also, ich.
+
+[Xiayang Gu] 15:43:52
+Ich bin nicht ganz sicher, wenn man dann reine.
+
+[Xiayang Gu] 15:43:57
+Produktdesign, ob dann doch, was andere Software nimmt, aber hauptsächlich, wenn ich da halt solche Komponenten oder Bauteile nochmal zum Fertigen gehe.
+
+[Xiayang Gu] 15:44:06
+Dann sind am meisten, was ich dann genannt habe, solche Programme zu benutzen, und zum Beispiel Siemens auch typisch, dass man Halt Nachhinein auch.
+
+[Xiayang Gu] 15:44:15
+Die dafür kämen, also für die Fertigung, zum Beispiel einer Drehbank oder Cnc Maschinen, auch sofort.
+
+[Xiayang Gu] 15:44:23
+Diese Pakete, dass da halt dieser Code nochmal, dass man selber nochmal.
+
+[Xiayang Gu] 15:44:27
+Rausspucken können, das heißt das komplett catcam.
+
+[Xiayang Gu] 15:44:31
+Complete System und andere Software wahrscheinlich.
+
+[Xiayang Gu] 15:44:36
+Mehr oder weniger mit noch fm noch dazu.
+
+[Xiayang Gu] 15:44:41
+und je nachdem ich weiß nicht, was ihr dann für System schon habt oder was ihr da.
+
+[Xiayang Gu] 15:44:48
+Uh noch am überlegen, welches das der Ja nehmen möchten, und das kann ich ganz sagen.
+
+[Xiayang Gu] 15:44:55
+Aber es halt als meine Erfahrung oder was ich dann her schon benutzt habe. Solches System.
+
+[Mouaz Al Qudsi] 15:45:00
+Crew.
+
+[Mouaz Al Qudsi] 15:45:02
+Fvm oder V.
+
+[Xiayang Gu] 15:45:05
+Dass es da halt, hauptsächlich um.
+
+[Xiayang Gu] 15:45:11
+Yeah. Belastend Bauzeit, die da halt irgendwelche Kraft.
+
+[Xiayang Gu] 15:45:16
+Belastet wird, und da muss man halt.
+
+[Xiayang Gu] 15:45:19
+Nachprüfen, ob da wirklich.
+
+[Xiayang Gu] 15:45:22
+Durch solche Konstruktion.
+
+[Xiayang Gu] 15:45:24
+Wirklich das Material nochmal hält und dann manchmal auch so eine Spitzenbelastung.
+
+[Xiayang Gu] 15:45:28
+Am Rand oder Kehr ab, ob das da Halt nach langem Nutzen.
+
+[Xiayang Gu] 15:45:33
+Doch versagt das Material oder Halt. Diese Form ist doch nicht geeignet usw., und das ist da halt. Finite Elemente, Methode.
+
+[Xiayang Gu] 15:45:42
+Um die Spannungen usw. zu simulieren, quasi.
+
+[Mouaz Al Qudsi] 15:45:48
+Okay.
+
+[Olaf Pick] 15:45:48
+Der letzte Schritt, also definite Elemente. Methode muss ich mir das so vorstellen.
+
+[Olaf Pick] 15:45:54
+Der erste Schritt ist. Du übersetzt das Anforderungsprofil den Anforderungskatalog in einen 3 D Crd Modell.
+
+[Xiayang Gu] 15:46:02
+You know.
+
+[Olaf Pick] 15:46:02
+Zum Beispiel mit Katja.
+
+[Xiayang Gu] 15:46:04
+You know.
+
+[Olaf Pick] 15:46:04
+und wenn du das dann, wenn du das dann hast.
+
+[Olaf Pick] 15:46:06
+Dann nimmst du dieses Modell.
+
+[Olaf Pick] 15:46:09
+Du trägst es in eine Ca-software, um die Kräfte beispielsweise zu messen.
+
+[Olaf Pick] 15:46:14
+und mit Hilfe von fem und solchen Geschichten zu schauen, ist ein.
+
+[Olaf Pick] 15:46:19
+Design Design sozusagen richtig, oder musst du irgendetwas an der Geometrie ändern an? Der formgebung An dem material.
+
+[Xiayang Gu] 15:46:28
+You know. Also im Prinzip also ganz ganz einfach: Bauteile kann man schon mit Vorkenntnis im Studium kam, auch per Hand kurz berechnen.
+
+[Xiayang Gu] 15:46:39
+und so Grobbelastung, und dann weiß man ungefähr, ja, okay, ich.
+
+[Xiayang Gu] 15:46:43
+Ich habe so eine Form, was die Designtechnik haben möchte, und dann nach dieser Form.
+
+[Xiayang Gu] 15:46:48
+Nochmal ganz vereinfacht, Struktur zu berechnen, und ob das erst mal zuerst nicht hätte.
+
+[Xiayang Gu] 15:46:53
+Zu gucken, ob das überhaupt, was wir da haben möchte, passt.
+
+[Xiayang Gu] 15:46:59
+Wenn nicht passt, dann kann man von Anfang an.
+
+[Xiayang Gu] 15:47:02
+Nochmal anderen Form überlegen und dann nicht mal ansteigen. Zum.
+
+[Xiayang Gu] 15:47:07
+und das nennt man so eine technische Berechnung, bisschen kurz per handberechnen und in der Group.
+
+[Xiayang Gu] 15:47:14
+Passt, dann fängt man schon direkt an, sehr wie zu Designtechnik zu machen.
+
+[Xiayang Gu] 15:47:19
+und da nochmal genauere zu gucken wie Belastung usw. durch die Kunst wieder Teile, auch nach.
+
+[Xiayang Gu] 15:47:26
+Fertigungsgemäß zu konstruieren.
+
+[Xiayang Gu] 15:47:29
+und dann nochmal überprüfen, quasi zu überprüfen, ob das überhaupt stimmt.
+
+[Xiayang Gu] 15:47:37
+und danke auch sein, dass dann.
+
+[Xiayang Gu] 15:47:39
+Uh fm Ergebnisse.
+
+[Xiayang Gu] 15:47:42
+Sehr viel auseinander mit der Handrechnung.
+
+[Xiayang Gu] 15:47:45
+Entweder muss man eine Halterechnung am meisten wahrscheinlich Handrechnung bisschen falsch, weil es sowieso per Hand, dass man da, welche.
+
+[Xiayang Gu] 15:47:53
+Belastung oder welche Entwicklung sehr, sehr ernsthaft ist.
+
+[Xiayang Gu] 15:47:56
+Ob das dann Grundfehler gab.
+
+[Xiayang Gu] 15:47:59
+und wenn man weiß, okay, durch Fem bringe ich dann diese Randbedingungen Belastungen weiter. Kein Problem ist.
+
+[Xiayang Gu] 15:48:07
+Dann sollte man schon 80% Vertrauen An cai Genau, an ci-ergebnisse.
+
+[Xiayang Gu] 15:48:14
+und dann nach.
+
+[Xiayang Gu] 15:48:17
+Design, Zyklus.
+
+[Xiayang Gu] 15:48:20
+Dann kann man Federn.
+
+[Xiayang Gu] 15:48:23
+Okay, das ist dann enden und.
+
+[Xiayang Gu] 15:48:27
+Kann sein, dann erst Abfertigungs.
+
+[Xiayang Gu] 15:48:30
+Human erst mal herstellen und vielleicht ersten Prototyp schon.
+
+[Xiayang Gu] 15:48:35
+Zu fertiger geben und dann mal testen.
+
+[Xiayang Gu] 15:48:38
+Oder sagt, der Fertiger? Okay, nee. Das kann ich nicht mehr fertigen.
+
+[Xiayang Gu] 15:48:42
+und da muss man überlegen, ob ich dann Ihr technischer Zeichnung ein bisschen anders machen oder.
+
+[Xiayang Gu] 15:48:50
+und das kann man auch machen, dass dann schon während Bauteil konstruieren, schon Absprache mit fertiger.
+
+[Xiayang Gu] 15:48:59
+und dann mal fragen, ob das überhaupt geht. Wenn nicht, dann kann man rechtzeitig schon Design ändern.
+
+[Xiayang Gu] 15:49:05
+und immer Rücksprache halten.
+
+[Xiayang Gu] 15:49:08
+und bis dann zum ersten Prototypen und da vielleicht zusammenbauen.
+
+[Xiayang Gu] 15:49:12
+und dann mal testen und.
+
+[Xiayang Gu] 15:49:15
+Also, da gibt es auf jeden Fall nach dem Testen auf jeden Fall noch, wenn dann unzufrieden ist.
+
+[Xiayang Gu] 15:49:21
+Da muss man halt auch ganz kleine Kleinigkeiten nochmal ändern am. Original bauteil.
+
+[Olaf Pick] 15:49:28
+Bist du denn Cheyang.
+
+[Xiayang Gu] 15:49:28
+Dass da halt immer so.
+
+[Xiayang Gu] 15:49:33
+Das Internetprodukt dann noch mal.
+
+[Olaf Pick] 15:49:36
+Yeah. Okay?
+
+[Olaf Pick] 15:49:38
+Choiyang. Willst du denn als Designer.
+
+[Olaf Pick] 15:49:41
+Der jetzt ganz am Anfang dabei ist, dieses Bauteil zu entwerfen, zu entwickeln.
+
+[Olaf Pick] 15:49:46
+Bevor der Prozess der Abstimmung startet mit dem Auftragsfertiger, der dir dann sagt, ob er das so fertigen kann, wie Du Es Designt Hast oder nicht.
+
+[Olaf Pick] 15:49:55
+Bist du in der Lage.
+
+[Olaf Pick] 15:49:56
+Alle Informationen, die du brauchst, um dieses Teil möglichst auch direkt so zu produzieren, dass es auch.
+
+[Olaf Pick] 15:50:04
+In Serie gefertigt werden kann.
+
+[Olaf Pick] 15:50:07
+In dein Design zu integrieren, stehen dir diese Informationen alle vollständig zur Verfügung.
+
+[Olaf Pick] 15:50:13
+Oder sagst du nee, ich habe am Anfang.
+
+[Olaf Pick] 15:50:16
+Nur ein bestimmtes Maß an Informationen über die eingesetzten Materialien.
+
+[Olaf Pick] 15:50:23
+Vielleicht über supply chains, vielleicht auch über.
+
+[Olaf Pick] 15:50:25
+Bestimmte physikalische Parameter, vielleicht sogar auch über Kosten oder über Nachhaltigkeitsparameter.
+
+[Olaf Pick] 15:50:31
+Die muss ich mir das vorstellen, was für Informationen stehen, hier am Anfang zur Verfügung.
+
+[Xiayang Gu] 15:50:39
+You know.
+
+[Xiayang Gu] 15:50:41
+Real, wahrscheinlich erst mal auch oder erst mal Gesamtbudget.
+
+[Xiayang Gu] 15:50:46
+Zu stellen und.
+
+[Xiayang Gu] 15:50:48
+und dann überlege ich mal, was ich machen kann, und auch Anschaffen von Materialien.
+
+[Xiayang Gu] 15:50:55
+und die Belastungen und vielleicht.
+
+[Xiayang Gu] 15:50:58
+Ja macht. Wahrscheinlich wird dann wahrscheinlich.
+
+[Xiayang Gu] 15:51:01
+Nicht, dass man nicht vorgegeben oder wenn man grob.
+
+[Xiayang Gu] 15:51:06
+Erst mal eine Grundidee haben möchten, da wahrscheinlich stehen noch das Material nicht fest.
+
+[Xiayang Gu] 15:51:17
+Aber man prüft erst mal das Budget und.
+
+[Xiayang Gu] 15:51:19
+und dann nach der Belastung, also auch nur die Belastungen.
+
+[Xiayang Gu] 15:51:23
+und diese Anforderungen Belastungen, was dann halt am Ende das Produkt stehen und das Zweck für.
+
+[Xiayang Gu] 15:51:28
+Wofür man braucht.
+
+[Xiayang Gu] 15:51:29
+und wahrscheinlich auch diesen Marktanalyse noch mal dazu.
+
+[Xiayang Gu] 15:51:35
+Und dann scheint man, ob, darunter diese bestimmte Randbedingungen.
+
+[Xiayang Gu] 15:51:52
+und dann scheint man, ob da unter dieser bestimmte Randbedingungen ein bisschen günstigeres Material, das.
+
+[Xiayang Gu] 15:51:53
+Tragen.
+
+[Xiayang Gu] 15:51:55
+Ob das überhaupt in dieser Budgetbegrenze drin und.
+
+[Xiayang Gu] 15:51:59
+Ob das auch am meisten ausreichen, nur mit Non-teil zu bearbeiten oder zu arbeiten.
+
+[Xiayang Gu] 15:52:08
+und.
+
+[Xiayang Gu] 15:52:10
+Noch, was noch festzustellen ist, wie lange brauche ich dann diese Produkt bis zum.
+
+[Xiayang Gu] 15:52:16
+Serienreif.
+
+[Xiayang Gu] 15:52:18
+Oder brauchen ein, 2 Anlaufzeit oder 2, 3, sogar Prototypen erst mal zu machen, und dann entscheide nicht.
+
+[Xiayang Gu] 15:52:26
+Ob da wirklich zu Serien fertigen lassen.
+
+[Mouaz Al Qudsi] 15:52:31
+Ich habe hier eine kurze Frage. Ja, vielen Dank für die Erklärung. Ich lass meinen Kamera aus, weil ich denke, deine Verbindung ist ab.
+
+[Xiayang Gu] 15:52:34
+Yep.
+
+[Mouaz Al Qudsi] 15:52:42
+Gehackt. Wenn mein Kamera an ist. Habe ich gemerkt.
+
+[Xiayang Gu] 15:52:43
+Good night.
+
+[Mouaz Al Qudsi] 15:52:48
+Nein, nein, es ist lass. Also, du kannst dein Kamera machen.
+
+[Xiayang Gu] 15:52:49
+Ich lass auch mal aus, vielleicht auch wegen meinem Video, dann wahrscheinlich auch ein bisschen beeinträchtigt.
+
+[Olaf Pick] 15:52:52
+Yep.
+
+[Mouaz Al Qudsi] 15:52:56
+Alles Gute. Okay. Du hast am Anfang genannt, dass du.
+
+[Olaf Pick] 15:52:56
+Let's go.
+
+[Mouaz Al Qudsi] 15:53:04
+Auch Python Script und. Auch ein bisschen mit Ml: also dich beschäftigt war und.
+
+[Mouaz Al Qudsi] 15:53:14
+Meine Frage hier. War das.
+
+[Mouaz Al Qudsi] 15:53:18
+Das hat zu tun mit der cae-tool. Das hat auch zu tun mit, was du vorher genannt hast, dass die.
+
+[Mouaz Al Qudsi] 15:53:26
+Es gibt Unterschiede zwischen Handrechnungen und auch Cre, Rechnungen oder.
+
+[Mouaz Al Qudsi] 15:53:32
+Genau. Was war das Ding? Das. Das hat dir diese Motivation gegeben, dass du auch Programmieren und Ml benutzen sollst, zum Beispiel.
+
+[Mouaz Al Qudsi] 15:53:42
+und was war diese genaue? Use cases.
+
+[Xiayang Gu] 15:53:47
+Okay. Um.
+
+[Xiayang Gu] 15:53:49
+Ja die Handberechnung ist, also kann man nicht. Ohne und Handberechnung kann man auch nicht.
+
+[Xiayang Gu] 15:53:56
+Zu automatisieren, und das Grundgedanken mit Python oder auch anderen Programmierensprache ist halt.
+
+[Xiayang Gu] 15:54:02
+Wenn man für eine große Menge, zum Beispiel meine Erfahrungen, wer täglich.
+
+[Xiayang Gu] 15:54:07
+Sehr viele Anläufe für die Crash-simulation machen.
+
+[Xiayang Gu] 15:54:12
+Manchmal 10 oder über 100 Anläufe im Cluster gerechnet haben und.
+
+[Xiayang Gu] 15:54:18
+Uh Feed in Prozesse, die Vorbereitung und Nacharbeitung und auch die Ergebnisanalyse.
+
+[Xiayang Gu] 15:54:25
+und kann man halt durch Prozessautomatisieren sehr viel Zeit ersparen.
+
+[Xiayang Gu] 15:54:31
+und durchpreisen, ist quasi Halt. Wenn ich dann sehr viele Prozesse die gleichen Prozesse habe.
+
+[Xiayang Gu] 15:54:38
+Dann kann ich durch diese.
+
+[Xiayang Gu] 15:54:39
+Reißen, zu programmieren, dass da halt die menschliche Arbeit bist, erleichtert.
+
+[Xiayang Gu] 15:54:45
+und also, falls also am Anfang der Produktdesign wahrscheinlich bisschen schwierig.
+
+[Xiayang Gu] 15:54:53
+Mit Python einzusetzen oder überhaupt zu automatisieren.
+
+[Xiayang Gu] 15:54:58
+und also am Anfang Designprozess ist halt. Am meisten überwiegend sind manuell zu bearbeiten.
+
+[Xiayang Gu] 15:55:06
+und teils Serienreife ist dieses Produkt und halt.
+
+[Xiayang Gu] 15:55:13
+Ja, wenn man da halt, welch eine Baukasten habe.
+
+[Xiayang Gu] 15:55:17
+Eine Grundmasse, und wenn ich dann diese Grundmaße zu skalieren wissen, ich brauche diesen kleineren Bauteile, aber.
+
+[Xiayang Gu] 15:55:26
+Diese Grunddesign sollte nicht geändert werden, oder bis in größere Bauteile, und das Grundgeometrie sollte nicht beendet werden.
+
+[Xiayang Gu] 15:55:34
+Da kann man automatisieren. Auch von Cad her kann man schon direkt automatisieren.
+
+[Xiayang Gu] 15:55:40
+und das ist eher so geeignet, für große Mengen zu fertigen oder zu designen oder zu simulieren.
+
+[Xiayang Gu] 15:55:47
+und für kleine Menge eher nicht so war. Ja.
+
+[Xiayang Gu] 15:55:52
+Man benötigt auch für die Programmierung auch gewisse Zeit, um zu testen, und das für eine kleine Menge eigentlich sich nicht Lohnt Für Die Automatisierung.
+
+[Mouaz Al Qudsi] 15:56:03
+Good on Yup. Es macht Sinn, also, das war.
+
+[Mouaz Al Qudsi] 15:56:07
+You know, as. Ein Beispiel war, die Grundmasse zu massieren, wenn es.
+
+[Mouaz Al Qudsi] 15:56:13
+Eine große Menge gibt, dass ein. Das war eine der Prozesse, also.
+
+[Mouaz Al Qudsi] 15:56:18
+Was waren die anderen Prozesse für automatisieren, und du hast also.
+
+[Mouaz Al Qudsi] 15:56:22
+Ich habe auch die andere Frage: Du hast gesagt: für Produktdesign ist es schwer, zu automatisieren oder die Prozesse zu automatisieren.
+
+[Mouaz Al Qudsi] 15:56:30
+Ist das, was anderes auch.
+
+[Xiayang Gu] 15:56:35
+Um.
+
+[Xiayang Gu] 15:56:38
+Was meinst du jetzt mit anderen.
+
+[Mouaz Al Qudsi] 15:56:40
+Also, du hast ja gesagt, dass es das für Produktdesign.
+
+[Mouaz Al Qudsi] 15:56:46
+Automatisieren ist schwer. Also die Leute verstehen, Unterproduktes sein. Viele Sachen.
+
+[Xiayang Gu] 15:56:50
+Also.
+
+[Xiayang Gu] 15:56:51
+Genommen und.
+
+[Xiayang Gu] 15:56:55
+Nicht unbedingt muss man ein Ziel setzen, was ich da überhaupt designtechnisch mache.
+
+[Mouaz Al Qudsi] 15:56:55
+Du beitest.
+
+[Xiayang Gu] 15:57:03
+Wenn wir da halt für die Kunden wieder einmalig die Sachen haben möchten.
+
+[Xiayang Gu] 15:57:08
+und wir machen das dann Auftrag für ihn, und das ist nur einmalig und dann nur kleine Menge.
+
+[Xiayang Gu] 15:57:15
+Das lohnt sich nicht aber halt, wenn man für eine große Industrie, die da halt Massenaufträger gibt.
+
+[Xiayang Gu] 15:57:22
+Aber mit gleichen Geometrie, aber nicht der anderen Geometrie, was da anderen Bauteilen sind, sondern.
+
+[Xiayang Gu] 15:57:29
+Die gleichen Geometrie, und die wollen da halt verschiedene Sachen machen. Daraus.
+
+[Xiayang Gu] 15:57:34
+Oder in großer Menge.
+
+[Xiayang Gu] 15:57:36
+Das kann man auch automatisieren.
+
+[Xiayang Gu] 15:57:39
+und für eine kleine Seenfertigung oder Sonderfertigung oder Sonderdesign.
+
+[Xiayang Gu] 15:57:47
+Das muss man nicht unbedingt zu programmieren.
+
+[Xiayang Gu] 15:57:53
+Also programmieren, kann man auch alles möglich, zum Beispiel auch für.
+
+[Xiayang Gu] 15:57:58
+Website. Design. Order. Head of.
+
+[Xiayang Gu] 15:58:01
+Verteilt haben oder was.
+
+[Xiayang Gu] 15:58:04
+Was Aufträge und Gewinnen usw., dass man halt auch.
+
+[Xiayang Gu] 15:58:09
+Durch Python oder C zu programmieren, dass man nicht jeden Monat einen abschlusst und menschlich zu machen.
+
+[Xiayang Gu] 15:58:16
+und das auch vielfältig einzusetzen. Mit der Programmierung, und auch nicht unbedingt muss ich dann.
+
+[Xiayang Gu] 15:58:22
+Ja, ich muss nur, um Produktdesign dann zu automatisieren.
+
+[Xiayang Gu] 15:58:27
+und dann anderen, dann lassen wir weg, dass.
+
+[Xiayang Gu] 15:58:31
+Das kann man immer, was anderes machen oder aufhellen.
+
+[Xiayang Gu] 15:58:33
+Irgendwann brauche ich. Okay, ich denke, okay, ich brauch da programmieren, bisschen schöner zu machen.
+
+[Xiayang Gu] 15:58:39
+Oder denke ich, okay, nach diesem.
+
+[Xiayang Gu] 15:58:42
+Eine Menge lohnt sich nicht und war ja, wie gesagt.
+
+[Xiayang Gu] 15:58:46
+Wenn man daran setzt, zu programmieren, zu testen. Das dauert auch.
+
+[Xiayang Gu] 15:58:50
+Schon ganz Daniel.
+
+[Mouaz Al Qudsi] 15:58:50
+Yep, yep. War das eine persönliche Initiative, oder war das eine Herausforderung in der Firma, das.
+
+[Mouaz Al Qudsi] 15:58:59
+Dass man. Um.
+
+[Xiayang Gu] 15:59:01
+Zu formieren, leisten oder.
+
+[Mouaz Al Qudsi] 15:59:06
+Die Automatisierung. Also, das war eine Initiative von dir, dass du.
+
+[Mouaz Al Qudsi] 15:59:11
+Sachen schneller machen möchtest. Das war so ein standard practice.
+
+[Xiayang Gu] 15:59:17
+Also, dass die Prozessautomatisierung, also bei Ada damals, das ist schon die wurden schon vielen anfangen zu machen, aber irgendwie hat nicht so richtig geschafft.
+
+[Mouaz Al Qudsi] 15:59:18
+This.
+
+[Xiayang Gu] 15:59:28
+und damals bei mir, auch wir haben nur so eine kleine.
+
+[Xiayang Gu] 15:59:32
+Student Projekt. Wir haben viel Drang, Arbeit für einen komplett Prozesse, und jeder einen kleinen Teil hat dafür.
+
+[Xiayang Gu] 15:59:39
+und also, das wollen Unternehmen schon dadurch, dass man da Halt ein bisschen mehr Aufträge pro Tag.
+
+[Xiayang Gu] 15:59:48
+Oder mehr Simulationen pro Tag schaffen zu können.
+
+[Xiayang Gu] 15:59:52
+und aber für Machines Learning als meinen Masterabschluss, das dann von meiner eigenen Idee.
+
+[Xiayang Gu] 15:59:58
+und war ja. Seit Anfang letztes Jahr habe ich schon mit meinem Chef oder meinem.
+
+[Xiayang Gu] 16:00:03
+Team guys hat schon angesprochen, dass sie da eng waren, möchte irgendwie ein schönes learning zu machen.
+
+[Xiayang Gu] 16:00:10
+Wir haben auch lange über das Thema diskutiert und gesucht.
+
+[Xiayang Gu] 16:00:15
+und am Ende haben wir da halt ein kleines Thema festgestellt, dass aber nur für Basis für die Machine Learning einzusteigen und auch.
+
+[Xiayang Gu] 16:00:25
+Große Nsweg ist. Auch.
+
+[Xiayang Gu] 16:00:27
+Komplett Prozess auch durch noch schneller zu machen.
+
+[Mouaz Al Qudsi] 16:00:34
+Kannst du ein Beispiel nennen? Was kann Ml. Mit.
+
+[Mouaz Al Qudsi] 16:00:41
+Die Geschwindigkeit helfen oder mit der Prozesse also besser helfen als normale.
+
+[Xiayang Gu] 16:00:45
+Um genau zum Beispiel. Also, das ist nur.
+
+[Xiayang Gu] 16:00:50
+Das größte Beispiel ist dann mit fm-simulation.
+
+[Xiayang Gu] 16:00:54
+und also, wenn ich dann bestimmt, bauteilen schon tausendmal oder eine Million Mal schon.
+
+[Xiayang Gu] 16:01:00
+Berechnet habe.
+
+[Xiayang Gu] 16:01:02
+und da muss ich nicht mal die Fdm einzusetzen, weil Fm einzusetzen. Da braucht man auch irgendwie.
+
+[Xiayang Gu] 16:01:10
+Ja, diese Bauteil zu.
+
+[Xiayang Gu] 16:01:12
+Zu verkleinern und muss auch durch physikalische Lösung nochmal lösen.
+
+[Xiayang Gu] 16:01:19
+und dann ganz feine gelöst, muss man auch durch Cluster berechnen.
+
+[Xiayang Gu] 16:01:25
+und wenn ich dann eine Million mal gleich ein Bauteil simuliert habe, und wenn ich nur diesem Bauteil quasi kleine Endungen.
+
+[Xiayang Gu] 16:01:34
+Haben möchte, und dann kann ich durch manches learning die vorigen Ergebnisse, aber das ist auch nur die vorigen Ergebnisse Sehr Sehr Genau Berechnet Haben.
+
+[Xiayang Gu] 16:01:45
+Einzusetzen und Vorhersagen für.
+
+[Xiayang Gu] 16:01:48
+Diese Bauteil, was sie geändert haben, zu vorhersagen, aber.
+
+[Xiayang Gu] 16:01:52
+Die richtigen Ergebnisse.
+
+[Xiayang Gu] 16:01:54
+Muss man trotzdem genauer zu berechnen.
+
+[Mouaz Al Qudsi] 16:01:58
+Okay.
+
+[Xiayang Gu] 16:01:58
+und weil ja, wie gesagt, Machines Learning die Genauigkeit, wenn man.
+
+[Xiayang Gu] 16:02:02
+80% oder 25%.
+
+[Xiayang Gu] 16:02:04
+Richtig vorhergesagt ist, schon sehr, sehr gut.
+
+[Xiayang Gu] 16:02:09
+und aber für Endergebnisse muss man trotzdem.
+
+[Mouaz Al Qudsi] 16:02:09
+Okay? Yeah.
+
+[Xiayang Gu] 16:02:13
+Alle einmal nochmal durchrechnen, und bei Fm-analyse kann auch nicht hundertprozentig richtig sein.
+
+[Xiayang Gu] 16:02:21
+und ungefähr so, wenn man in Industrie oder Automobilbereiche, wenn man sehr gut berechnet.
+
+[Xiayang Gu] 16:02:26
+Alle Randbedingungen richtig eingesetzt, ungefähr 95% Richtige ergebnis Rauskommt.
+
+[Xiayang Gu] 16:02:33
+Dann ist die Fm sehr, sehr genau und sehr, sehr gut.
+
+[Xiayang Gu] 16:02:37
+und dann, wenn man wirklich ein Bauteilen einzusetzen, im Realleben oder als Produkt. Da muss man unbedingt mindestens einmal Prototyp zu Bauen und zu Testen.
+
+[Mouaz Al Qudsi] 16:02:49
+Prestige habt ihr irgendein Ml-modelle Umsetzung gehabt, oder war das nur eine Idee, ein bisschen Forschung und.
+
+[Xiayang Gu] 16:02:59
+Hier war das nur ganz am Anfang dieser machines Learning Modell.
+
+[Xiayang Gu] 16:03:04
+That's that's. Wenn man wirklich zum Einsatz kommt, dann muss noch andere.
+
+[Xiayang Gu] 16:03:10
+Vielleicht andere Studentnummer dran, noch mehr Hörschleifen durchzubauen.
+
+[Xiayang Gu] 16:03:14
+Also bei mir, ist nur gerade anfangen.
+
+[Mouaz Al Qudsi] 16:03:14
+This is. Sehr kompliziert, solche Sachen aufzubauen. Das verstehe ich total.
+
+[Xiayang Gu] 16:03:16
+You know.
+
+[Mouaz Al Qudsi] 16:03:19
+und auch ich habe auch verstanden, dass diese Ml Modelle.
+
+[Mouaz Al Qudsi] 16:03:27
+Für bestimmte Prozesse nicht so ganz also, es wird.
+
+[Mouaz Al Qudsi] 16:03:33
+The Fm. Ersetzen Dfm-ergebnisse. Oder.
+
+[Xiayang Gu] 16:03:37
+Wird definitiv nicht ersetzt. Das ist nur eine.
+
+[Xiayang Gu] 16:03:42
+Vorhersagen, dass man zum Beispiel auch mehrere Design haben und dann um schneller.
+
+[Xiayang Gu] 16:03:47
+Eine Design zu festlegen oder ein bestimmtes Design, Richtungen.
+
+[Xiayang Gu] 16:03:51
+Zum Beispiel festzulegen, damit ich da überhaupt in die richtige Richtung gehe, dann.
+
+[Xiayang Gu] 16:03:56
+Kann man auch schon bei schönes Learning direkt einsetzen, dass, da ungefähr Gruppenrechnung verstehen zu können.
+
+[Xiayang Gu] 16:04:02
+Aber auch, wie ich dann gerade gesagt habe: dein richtiges Ergebnis muss man unbedingt mindestens einmal.
+
+[Xiayang Gu] 16:04:08
+Durch Fwm berechnen und dann nochmal Produkt zu bauen.
+
+[Mouaz Al Qudsi] 16:04:13
+Also, das heißt, das Machine Learning Modell berechnet nicht oder macht keine Rechnungen oder die.
+
+[Xiayang Gu] 16:04:20
+Nee mag keine Rechnung, das ist nur der lernt quasi durch die vorherigen Ergebnisse.
+
+[Xiayang Gu] 16:04:25
+und der hat auch Algorithmen, das dann selber lernen und das auch der Deep Learning Prozess.
+
+[Xiayang Gu] 16:04:32
+Dass da auch selbstlernende Prozess im Programmierung schon geben.
+
+[Xiayang Gu] 16:04:36
+Oder schon ergeben, und dann, der lernt halt quasi.
+
+[Xiayang Gu] 16:04:40
+Durch die Geometrie und der vorherigen Simulationsergebnisse ein bisschen angepasst zu werden.
+
+[Xiayang Gu] 16:04:46
+Aber da wird nichts ersetzt. Die richtige Berechnung.
+
+[Mouaz Al Qudsi] 16:04:50
+Genau das wollte ich fragen. Also, das Input ist irgendein.
+
+[Xiayang Gu] 16:04:53
+*unk*.
+
+[Mouaz Al Qudsi] 16:04:56
+3d-datei und, dann das output Wird.
+
+[Mouaz Al Qudsi] 16:05:02
+Also values. Oder Werte von bestimmten Attributes oder.
+
+[Xiayang Gu] 16:05:06
+Genau so, je nach, was man haben möchten.
+
+[Xiayang Gu] 16:05:09
+Also, wenn ich da eine Geometrie zum Beispiel eingebe.
+
+[Xiayang Gu] 16:05:12
+und der will dann schon von der Datenbank quasi, was dann er gelernt hat, das Modell schon gelernt hatte.
+
+[Xiayang Gu] 16:05:19
+und in diese 3d-modelle setzen und dann durchrechnen ist, nicht fieren berechnungen Sondern, die.
+
+[Xiayang Gu] 16:05:27
+Morales Netzwerk, was da in Thai da drin ist, das.
+
+[Xiayang Gu] 16:05:31
+Irgendwie Logarithmische zu berechnen.
+
+[Xiayang Gu] 16:05:34
+Was dann ungefähr grob, zum Beispiel Spannung oder Kräfte dann rauskommen zu können.
+
+[Xiayang Gu] 16:05:40
+und dann oder sagt dann, okay.
+
+[Xiayang Gu] 16:05:43
+Das muss man definieren, ob man die Belastung bekommen haben möchten oder halt.
+
+[Xiayang Gu] 16:05:48
+Ob dann das nachher versagt oder nicht.
+
+[Xiayang Gu] 16:05:50
+Da muss man vorher schon definiert.
+
+[Xiayang Gu] 16:05:53
+Sein. und wenn der sagt, okay, der Material versagt dann nach paar Stunden, und da muss man auch mal gucken, was dann Falsch Ist.
+
+[Xiayang Gu] 16:06:02
+Aber er setzt auf keinen Fall die richtige, auf Effi im.
+
+[Mouaz Al Qudsi] 16:06:08
+Gibt es irgend Open Source Modelle, die das machen oder sind, auch.
+
+[Xiayang Gu] 16:06:12
+The fm. Uh, as a machine. Learning Mode definitiv nicht.
+
+[Mouaz Al Qudsi] 16:06:12
+Diese Ml.
+
+[Xiayang Gu] 16:06:19
+Why? Because machines learning model is kein physikalisches Löser, sondern.
+
+[Xiayang Gu] 16:06:24
+Als Algorithmen, was da drin steht und die Algorithmen ersetzt keine Physik.
+
+[Mouaz Al Qudsi] 16:06:31
+Genau, und das ist schwer auch für die Algorithmen, dass wir sie zu verstehen. Du meintest ja.
+
+[Xiayang Gu] 16:06:37
+Ja, also, man kann auch.
+
+[Xiayang Gu] 16:06:39
+Sehr, sehr schlauer zu programmieren, aber das wahrscheinlich schafft.
+
+[Xiayang Gu] 16:06:43
+Aktuell diese Lager mit Forschung von verschiedenen noch nicht.
+
+[Xiayang Gu] 16:06:49
+Dass da halt, direkt Physik irgendwie zu lösen.
+
+[Olaf Pick] 16:06:54
+Paar Jahren. Ich würde gerne also erst mal danke für die Erklärung. Ich bin jetzt so tief in der Technologie Drin aber ich habe glaube ich verstanden.
+
+[Xiayang Gu] 16:06:57
+Yep.
+
+[Mouaz Al Qudsi] 16:07:01
+Entschuldigung. Olaf.
+
+[Olaf Pick] 16:07:02
+Nein, nein, alles alles gut war ja, total richtig, was du gefragt hast.
+
+[Olaf Pick] 16:07:06
+Ich habe verstanden, dass du sagst.
+
+[Olaf Pick] 16:07:09
+Ein Machine Learning Prozess in diesem konkreten Teilprozess, in den wir uns jetzt hier gerade angucken.
+
+[Olaf Pick] 16:07:16
+Der ersetzt, am Ende des Tages nicht, dass der Mensch wieder drauf guckt, und das prüft aber.
+
+[Olaf Pick] 16:07:21
+Er kann dabei helfen, ganz schnell sehr viele verschiedene Szenarien und Variationen zu berechnen.
+
+[Xiayang Gu] 16:07:29
+You know.
+
+[Olaf Pick] 16:07:29
+Spart dir damit letzten Endes eine Menge Zeit, die du sonst hättest, investieren müssen.
+
+[Olaf Pick] 16:07:34
+Wenn du diese vielen verschiedenen Varianten selber hättest, berechnen wollen, ist das so richtig verstanden.
+
+[Xiayang Gu] 16:07:40
+Genau aber unter einer Voraussetzung, dass man Halt täglich.
+
+[Xiayang Gu] 16:07:44
+Täglich 100.000 Design. Verschiedene Design oder Ideen haben.
+
+[Xiayang Gu] 16:07:50
+Wenn du pro Tag nur 10 Design machen oder weniger, oder wenn wir hier da eine Startups gerade angefangen habt.
+
+[Xiayang Gu] 16:07:57
+Da würde ich sagen würde, da definitiv über 10 pro Tag irgendwie designtechnisch zu machen.
+
+[Xiayang Gu] 16:08:03
+und unter 10 diese Menge. Da lohnt sich Machines Learning nicht, und auch kann auch nicht durchsitzen, weil Machines Learning braucht.
+
+[Xiayang Gu] 16:08:11
+Input, der muss lernen.
+
+[Xiayang Gu] 16:08:13
+Input. Da gibt es auch nach meiner Recherchen oder Literaturrecherche.
+
+[Xiayang Gu] 16:08:18
+Für ein gutes Ergebnis. Beim Machines Learning brauchen mindestens 1.000 Inputs, dass dann schon korrekt richtig eingesetzt haben oder schon vorher berechnet haben die richtigen Ergebnisse.
+
+[Xiayang Gu] 16:08:31
+Damit er überhaupt lernen zu können.
+
+[Mouaz Al Qudsi] 16:08:34
+To Manchester. Genau man braucht. Ich denke, Olaf, man braucht Training Data.
+
+[Xiayang Gu] 16:08:39
+Genau Trainingsdaten. Das denkt man.
+
+[Mouaz Al Qudsi] 16:08:40
+und für kleine Unternehmen. Training training that is. Nicht verfügbar.
+
+[Xiayang Gu] 16:08:41
+You know.
+
+[Mouaz Al Qudsi] 16:08:44
+Aber ich denke, kann man den irgendwo. Vielleicht entweder zum Beispiel kaufen oder vielleicht auch.
+
+[Mouaz Al Qudsi] 16:08:52
+und man muss auch diese Daten labeln usw. Und so fort.
+
+[Xiayang Gu] 16:08:55
+You know. Das ist nur nach.
+
+[Mouaz Al Qudsi] 16:08:56
+Okay.
+
+[Xiayang Gu] 16:08:58
+Also, wenn die großen Unternehmen, vielleicht kann man auch vergangenen Simulationen 5 Jahren Simulation oder so.
+
+[Xiayang Gu] 16:09:06
+Zusammenfinden, aber für neue Unternehmen.
+
+[Xiayang Gu] 16:09:10
+Für eigenes Produkt gibt es keine Daten, und deswegen darf ich es sehr, sehr schwierig.
+
+[Olaf Pick] 16:09:16
+Also, was mich an der Stelle als Fragestellung umtreibt.
+
+[Olaf Pick] 16:09:22
+Ist, mit welchen Problemen du diesen Machining Learning algorithmus tatsächlich befragen kannst. Ich mache mal ein Beispiel.
+
+[Olaf Pick] 16:09:31
+Wenn du sagst.
+
+[Olaf Pick] 16:09:33
+Ich habe hier ein bestimmtes Bauteil.
+
+[Olaf Pick] 16:09:36
+und ich kann für dieses Bauteil verschiedene Materialien verwenden. Ich kann es aus Aluminium machen. Ich kann es aus Metall machen. Ich kann Es aus Bestimmten Form von Kunststoff Machen.
+
+[Olaf Pick] 16:09:45
+Ich kann es vielleicht aus hybriden Materialien machen, die haben alle ihre Vor und Nachteile.
+
+[Olaf Pick] 16:09:49
+Haben auch alle unsere entsprechenden Belastungsgrenzen.
+
+[Xiayang Gu] 16:09:50
+You know.
+
+[Olaf Pick] 16:09:53
+Die wiederum bedingen, die Geometrie also wandstärken und solche Geschichten.
+
+[Olaf Pick] 16:09:59
+Das wiederum bedingt das Gewicht des Bauteils, und nehmen wir mal an, ich will das jetzt optimieren. In Bezug auf Gewicht oder Aerodynamik oder.
+
+[Olaf Pick] 16:10:07
+Oder Gesamtkosten oder Co2-input oder oder oder.
+
+[Olaf Pick] 16:10:11
+Dann sind ja für jede dieser Kombinationen.
+
+[Olaf Pick] 16:10:15
+Unglaublich viele Varianten möglich, sobald ich einen Teil oder ein Element in dieser Gleichung ersetze. Wenn ich zum Beispiel sage.
+
+[Olaf Pick] 16:10:24
+Mache mir jetzt alle möglichen Designoptionen. Wenn das Material Aluminium ist.
+
+[Olaf Pick] 16:10:30
+und jetzt ersetze ich das Material Aluminium durch Stahl, und dann ersetze ich Stahl durch einen bestimmten Kunststoff.
+
+[Olaf Pick] 16:10:35
+Dann wird möglicherweise das Design auch jeweils etwas anderes aussehen.
+
+[Olaf Pick] 16:10:40
+Weil in meinen Anforderungskatalog, den ich ganz am Anfang festgelegt habe, habe ich ja gesagt.
+
+[Olaf Pick] 16:10:45
+Was das Material oder das Werkstoff aushalten muss, also welche Kräfte wirken da drauf? Wie lange soll es halten usw.
+
+[Olaf Pick] 16:10:53
+und nach dem, was du jetzt gerade erklärt hast. Shayang hatte ich so überlegt.
+
+[Olaf Pick] 16:10:57
+Ob wir ein Machine Learning Algorithmus dabei helfen kann.
+
+[Olaf Pick] 16:11:03
+Diese vielen Varianten zu kreieren, wenn du die jeweiligen Ausgangsbedingungen veränderst. Wenn du also die Materialien veränderst.
+
+[Olaf Pick] 16:11:11
+Wenn du Kostensituationen veränderst, wenn du sagst.
+
+[Olaf Pick] 16:11:14
+Ich habe übrigens in der einen Fabrik als Hersteller oder Produktionsstraße große 3d-printing-anlagen und, bei dem anderen bin ich eher im Bereich Druckguss oder So Weiter Unterwegs.
+
+[Olaf Pick] 16:11:24
+Das sind ja alles Faktoren, die haben dann am Ende des Tages auch Auswirkungen auf deine Designvorschläge.
+
+[Olaf Pick] 16:11:30
+und da könnte ja nach meinem.
+
+[Olaf Pick] 16:11:33
+Nach meinem Verständnis.
+
+[Olaf Pick] 16:11:35
+Eine Automatisierung mittels eines Machine Learning Algorithmus oder zumindest so einer Vorgehensweise.
+
+[Olaf Pick] 16:11:42
+Helfen, schneller.
+
+[Olaf Pick] 16:11:45
+Realistische Designs zu entwickeln.
+
+[Olaf Pick] 16:11:48
+In einer kürzeren Zeit, sodass also der Vorteil für dich als Anwender.
+
+[Olaf Pick] 16:11:54
+In der Zeitersparnis und in der Möglichkeit liegt, auch Dinge auszuprobieren, die du vielleicht in der Vergangenheit einfach.
+
+[Olaf Pick] 16:12:01
+Nicht ausprobieren konntest, weil dir ja die Vielzahl an Datenpunkten gar nicht vorgelegen hat.
+
+[Olaf Pick] 16:12:07
+Macht das Sinn, also könntest du dir vorstellen, dass das in die richtige Richtung geht, oder ist das, was ganz Anderes: was ich gerade versucht habe zu beschreiben.
+
+[Xiayang Gu] 16:12:15
+Genau das richtig? und was Sie da also, ich habe schon am Anfang schon weiß, was du dann sagen möchtest.
+
+[Xiayang Gu] 16:12:23
+und also, heutzutage gibt es schon zum Beispiel Sword Watts.
+
+[Olaf Pick] 16:12:23
+Yep.
+
+[Xiayang Gu] 16:12:29
+Die sind schon intergiert durch Designmethode.
+
+[Xiayang Gu] 16:12:34
+und ich war neulich auch auf dem Hannover Messe, und ich habe für schöne Software, zum Beispiel Autocad.
+
+[Xiayang Gu] 16:12:41
+Nochmal mir angeschaut, und da habe ich nochmal extra für Ai Ansatzgebiete für Software nochmal angefragt.
+
+[Xiayang Gu] 16:12:50
+und die haben mir auch gezeigt.
+
+[Xiayang Gu] 16:12:54
+Die haben auch schon integriert in solche Software oder Cad Software.
+
+[Xiayang Gu] 16:12:59
+und dass man da halt ganz einfach verwenden können. Zum Beispiel, ich gebe ein Aluminium, oder ich.
+
+[Xiayang Gu] 16:13:05
+Macht erst mal eine große Klotz, da drauf.
+
+[Xiayang Gu] 16:13:08
+und sagt: Okay, das Material, das ist Aluminium oder Stahl usw. und gebe ich an. Okay. Dieser Punkt.
+
+[Xiayang Gu] 16:13:16
+Möchtet ein fest oder möchte ich an Kugellager einsetzen und andere Punkt anderen Kugellager oder.
+
+[Xiayang Gu] 16:13:22
+Ganz fest. Punkte.
+
+[Xiayang Gu] 16:13:25
+und dann sage ich dann die Belastung. In welche Richtung habe ich dann Kräfte oder Drehmomente.
+
+[Xiayang Gu] 16:13:31
+und der wird ungefähr in 2, 3 min schon ungefähr grob Bauteile, dann rausplotten.
+
+[Xiayang Gu] 16:13:38
+und sobald ich dann Materie ändern und der wieder anderen geometrie Rausgeben.
+
+[Xiayang Gu] 16:13:43
+und das ist schon ungefähr.
+
+[Xiayang Gu] 16:13:46
+Reif in solche Software schon gegeben.
+
+[Xiayang Gu] 16:13:51
+und was ich dann.
+
+[Xiayang Gu] 16:13:54
+Mindset, mit Machines Learning, wenn man selber programmieren zu müssen oder zu möchten, dass es dann halt.
+
+[Xiayang Gu] 16:14:01
+Es geht darum. Ich habe schon klare Designerrichtung.
+
+[Xiayang Gu] 16:14:06
+und ich möchte in mein Produkt einsetzen.
+
+[Xiayang Gu] 16:14:10
+und dann programmiere ich da halt diese machines Learning für mein eigenes Produkt, sondern ein Anfangsprodukt, das dann Halt diese Entscheidung treffen müssen.
+
+[Xiayang Gu] 16:14:20
+und wenn man selbst programmieren zu müssen, mit überschiss Learning dann die Voraussetzung ist.
+
+[Xiayang Gu] 16:14:26
+Dass ich dann eine große Menge zu haben richten.
+
+[Xiayang Gu] 16:14:29
+Oder ein klare Beispiel ist Halt. Was ich dann an meine Masterarbeit gemacht habe, ist.
+
+[Xiayang Gu] 16:14:36
+Um. Uh, ihr kennt ja alle diese Versuche beim Auto Crösch.
+
+[Olaf Pick] 16:14:41
+Yeah?
+
+[Xiayang Gu] 16:14:42
+und da wird auch dieser Kösch-dami im real Versuche eingesetzt.
+
+[Xiayang Gu] 16:14:48
+und da wird auch die Punkte oder die Körperteile, wo die dann genau positioniert.
+
+[Xiayang Gu] 16:14:54
+Abgetastet, und da wieder eine Punkte wollten im Koordinatensystem geben.
+
+[Xiayang Gu] 16:15:01
+und meine Aufgabe ist Halt. Wir haben auch Berechnungsbereiche.
+
+[Xiayang Gu] 16:15:06
+Wir haben Berechnungen, diese Versuchsvergleich, und wir setzen die Simulationsmodell.
+
+[Xiayang Gu] 16:15:11
+Ungefähr 1 zu 1, wie dann diese Versuche gelaufen ist, zum Beispiel die genauere Position, die ihr Dummies. Wir müssen Fast 1 Zu 1.
+
+[Xiayang Gu] 16:15:22
+Genau zu positionieren. Im Ci Bereich.
+
+[Xiayang Gu] 16:15:25
+und meinen Aufgaben ist Halt.
+
+[Xiayang Gu] 16:15:27
+Durch abgetastete Daten.
+
+[Xiayang Gu] 16:15:29
+Dass man nicht manuell dummy in Ci zu funktionieren.
+
+[Xiayang Gu] 16:15:34
+Sondern ich erkenne diese Punkte und weiß ich ganz genau, wo der Hunt ist, und dann setze ich dann im Ci direkte Hand.
+
+[Xiayang Gu] 16:15:41
+und das ist dann dieser Sinn, wenn man da selber zu programmieren.
+
+[Xiayang Gu] 16:15:46
+und wo man halt heutzutage solche aktuellen Programme, zum Beispiel wie solche Walks usw.
+
+[Xiayang Gu] 16:15:54
+Das ist schon ein Angebot, dass man halt erst eine designtechnischen Klotz.
+
+[Xiayang Gu] 16:15:59
+Dass man selber nicht mehr irgendwie großartig um das Design zu kümmern, müssen einfach.
+
+[Xiayang Gu] 16:16:05
+Randbedingungen gehen mit Belastungen, Lagerungen usw.
+
+[Xiayang Gu] 16:16:09
+und der wieder schon direkte Gruppe Rechnung geben. Wie du da hingehen möchtest.
+
+[Xiayang Gu] 16:16:15
+und dann nur halt, einfach weil.
+
+[Xiayang Gu] 16:16:18
+Das Programm erst mal noch nicht verstehen, ob da überhaupt.
+
+[Xiayang Gu] 16:16:21
+Die Möglichkeit zu fertigen.
+
+[Xiayang Gu] 16:16:23
+Deswegen müssen Rücksprache mit Techniker oder fertiger.
+
+[Xiayang Gu] 16:16:28
+Ob das überhaupt sinnvoll oder halt, überhaupt.
+
+[Xiayang Gu] 16:16:33
+Möglich zu fertigen.
+
+[Xiayang Gu] 16:16:35
+und dann sagt: okay, der Fertige sagt Nee, das geht nicht. Da müssen da halt noch vielleicht.
+
+[Xiayang Gu] 16:16:40
+Selber Handy anzupassen oder halt.
+
+[Xiayang Gu] 16:16:43
+Nochmal extra Randbedingungen. Cr: Nochmal geben, dass da halt nochmal ein neuer Bauteil zu exportieren.
+
+[Xiayang Gu] 16:16:52
+und ja, man kann heutzutage schon neue Möglichkeiten zu.
+
+[Olaf Pick] 16:16:52
+You know.
+
+[Xiayang Gu] 16:16:56
+Zu Erleichterungen quasi für die Produkte sein.
+
+[Olaf Pick] 16:17:02
+Wir haben jetzt in dem Gespräch bisher Chaiang sehr stark über Geometrie, Physik und.
+
+[Olaf Pick] 16:17:09
+Die Möglichkeit gesprochen, zusammen mit Machine Learning.
+
+[Olaf Pick] 16:17:15
+Viele Varianten auszuprobieren und einfach dann danach zu testen und festzulegen, ob die physikalischen Grundprinzipien eingehalten worden sind und was dann am Ende.
+
+[Olaf Pick] 16:17:25
+Das beste Design ist.
+
+[Xiayang Gu] 16:17:27
+You know.
+
+[Olaf Pick] 16:17:27
+Es ist jetzt natürlich auch, sodass du neben der.
+
+[Olaf Pick] 16:17:30
+Physikalischen Ebene.
+
+[Olaf Pick] 16:17:33
+Noch eine ganze Menge an weiteren Informationsebenen hast, die in so ein Produkt reinfließen.
+
+[Olaf Pick] 16:17:38
+Wo kommen die Grundstoffe her.
+
+[Olaf Pick] 16:17:41
+Wie ist, wie aufwendig und energieintensiv ist die Produktion in der Massenproduktion. Wie ist der Lebenszyklus des Produktes.
+
+[Olaf Pick] 16:17:49
+Muss das Produkt nachher auch recycelbar sein.
+
+[Olaf Pick] 16:17:53
+usw. usw. Also will sagen.
+
+[Olaf Pick] 16:17:56
+Eine Menge zusätzliche Datenpunkte.
+
+[Olaf Pick] 16:17:58
+Die auf das Design und auf das Produkt einzahlen.
+
+[Olaf Pick] 16:18:02
+und die für die finale Entscheidung, was man jetzt tatsächlich dann tut, auch eine wichtige Rolle spielen.
+
+[Olaf Pick] 16:18:09
+Das sind, aber wenn ich das jetzt richtig verstanden habe, nicht unbedingt die Informationsebenen gewesen.
+
+[Olaf Pick] 16:18:15
+Mit denen du dich beschäftigt hast. Du hast mir auf der physikalischen Ebene unterwegs oder.
+
+[Xiayang Gu] 16:18:20
+Ich bin da halt quasi ingenieur und, es sah keine richtige produktdesigner.
+
+[Xiayang Gu] 16:18:28
+und natürlich, wie ich auch gesagt habe, wahrscheinlich.
+
+[Xiayang Gu] 16:18:33
+Mit dem Budget bestimmen wir dann die Kosten für Anschaffung des Materials.
+
+[Xiayang Gu] 16:18:39
+und natürlich auch vorher die Datenbank für Material nochmal besorgen müssen, dass dann überhaupt die Eigenschaften.
+
+[Xiayang Gu] 16:18:47
+Gerechtigt, für mein Design oder was da halt.
+
+[Olaf Pick] 16:18:50
+Yeah?
+
+[Xiayang Gu] 16:18:50
+Brauche, und natürlich, wenn man da halt diese Firma schon weiß, und weiß man auch schon, ob diese Firma.
+
+[Xiayang Gu] 16:18:57
+Nachhaltiger ist und ob das recycelbar ist.
+
+[Olaf Pick] 16:19:01
+Yeah?
+
+[Xiayang Gu] 16:19:02
+und also auf jeden Fall bestimmt. Einfluss muss man auch schon im.
+
+[Xiayang Gu] 16:19:08
+Im Vordergang schon in Gedanken machen.
+
+[Xiayang Gu] 16:19:12
+und ja, was ich dann gerade große Menge gesagt habe oder diskutiert habe, ist es eigentlich schon, wenn man da schon festgelegt.
+
+[Xiayang Gu] 16:19:19
+Das Material, was ich brauche, benötige ich.
+
+[Xiayang Gu] 16:19:22
+und dann fange ich an, zu designen.
+
+[Xiayang Gu] 16:19:25
+und zu fertigen.
+
+[Xiayang Gu] 16:19:28
+und natürlich auch die Menge für die Serienbauteile.
+
+[Xiayang Gu] 16:19:33
+Muss natürlich schon vorher bestimmen, ob ich da eine.
+
+[Xiayang Gu] 16:19:35
+Zu diesem großen Segen fertigen machen oder halt. Kleine Menge Fertigungen machen.
+
+[Xiayang Gu] 16:19:41
+Da gibt es auch nur kleine Serienbauteile und großen Serienbauteile und auch Sonderbauteile.
+
+[Xiayang Gu] 16:19:47
+Das muss man natürlich am Anfang schon bestimmen.
+
+[Olaf Pick] 16:19:48
+Yeah?
+
+[Xiayang Gu] 16:19:50
+Welche Richtung ich gehe, und dann weiß man schon. Okay, ob ich.
+
+[Xiayang Gu] 16:19:55
+Für die Bauteile gegossen zu sein, günstiger als dann eine Klotz zu kaufen und dann gedreht zu werden oder gefräst zu werden.
+
+[Olaf Pick] 16:20:02
+Ja. Total. Ja. Richtig. Absolut.
+
+[Xiayang Gu] 16:20:04
+You know.
+
+[Olaf Pick] 16:20:05
+und du möchtest ja wahrscheinlich auch verhindern, dass du Ausschuss produzierst, also, dass du viele Sachen wegschmeißen musst, weil irgendetwas In der Umsetzung nicht wirklich Geklappt Hat.
+
+[Olaf Pick] 16:20:16
+Wäre gut, wenn man das vorher simulieren könnte.
+
+[Olaf Pick] 16:20:19
+Dass man diese Fehler zu vermeiden und vielleicht jetzt auch nicht ein sehr teures Werkzeug herstellen lässt.
+
+[Xiayang Gu] 16:20:19
+Ja genau richtig.
+
+[Olaf Pick] 16:20:24
+Was dann am Ende des Tages das Problem nicht löst. Am Ende.
+
+[Xiayang Gu] 16:20:28
+und das gibt es auch, dass.
+
+[Olaf Pick] 16:20:28
+Ich habe ein.
+
+[Xiayang Gu] 16:20:31
+Entschuldigung, ja, das gibt es auch natürlich diese Cam, also Crm Prozess auch im Sofeld zu simulieren.
+
+[Olaf Pick] 16:20:38
+Yeah?
+
+[Xiayang Gu] 16:20:38
+und dann weiß man schon, okay, welche Material brauche ich dann eigentlich für diesen? Also pro.
+
+[Olaf Pick] 16:20:44
+Yeah?
+
+[Xiayang Gu] 16:20:44
+Rohstoff, und das kann alles auch simulieren.
+
+[Olaf Pick] 16:20:50
+Du hattest eben kurz erwähnt, dass du auf der Hannover Messe gewesen bist und dich schlau gemacht hast, wie der Aktuelle Stand an Software ist und.
+
+[Olaf Pick] 16:21:00
+Wie diese Software auch mit künstlicher Intelligenz beispielsweise enabled werden kann.
+
+[Olaf Pick] 16:21:05
+Ist dir das Programm von Autodesk.
+
+[Olaf Pick] 16:21:09
+Was? Wie ist das generative Design, glaube ich.
+
+[Xiayang Gu] 16:21:12
+Genau. Ja.
+
+[Olaf Pick] 16:21:13
+Ist jetzt bekannt. Hast du da schon, was von gehört.
+
+[Xiayang Gu] 16:21:17
+Ich glaube, hatten also auf der Messe haben, die dann.
+
+[Xiayang Gu] 16:21:20
+Irgendwas gezeigt, aber es ist noch nicht ganz, also quasi Serien in.
+
+[Xiayang Gu] 16:21:26
+Software, aber ich glaube, jetzt ist schon Ende dieses Jahr. Es kann sein, dass da halt schon.
+
+[Xiayang Gu] 16:21:31
+Reif genug auf den Markt zu bringen.
+
+[Xiayang Gu] 16:21:35
+und.
+
+[Xiayang Gu] 16:21:37
+Also daher also neue Version, habe ich nicht benutzt, weil ich habe keine Lizenz, und ich kann auch nicht testen.
+
+[Mouaz Al Qudsi] 16:21:45
+Aber du benutzt auch halt. Zumindest halt auch mehr Cai oder.
+
+[Xiayang Gu] 16:21:46
+Daher ich.
+
+[Xiayang Gu] 16:21:49
+Yeah?
+
+[Mouaz Al Qudsi] 16:21:51
+Nishka.
+
+[Xiayang Gu] 16:21:54
+Ist dann eher so Engineering, also mit Fm usw., und Cam ist dann also ja natürlich, Cam.
+
+[Xiayang Gu] 16:22:01
+Auch zurzeit dazu, und das ist da halt.
+
+[Xiayang Gu] 16:22:04
+Die Fertigungsprozess.
+
+[Mouaz Al Qudsi] 16:22:06
+Okay, ich habe eine ganz kurze Frage. Also, du hast über viele.
+
+[Mouaz Al Qudsi] 16:22:12
+Automatisierung, Möglichkeiten, auch Ki oder Ml Modelle zu integrieren.
+
+[Mouaz Al Qudsi] 16:22:20
+Wie stellst du vor, diese Integration zu sein? Würdest du das direkt in den.
+
+[Mouaz Al Qudsi] 16:22:27
+Software, die Fm, Software oder anderen Software haben. Oder es ist egal, ob das so.
+
+[Mouaz Al Qudsi] 16:22:33
+An external tool. Wo du die Daten einfach siehst.
+
+[Mouaz Al Qudsi] 16:22:36
+Einfach so ein backend oder auch. Wir sagen mal so ein.
+
+[Mouaz Al Qudsi] 16:22:42
+Terminal, or the Bash Script as a V. Wie stellst du das mal vor? Am besten.
+
+[Xiayang Gu] 16:22:49
+Nice. So yes. Expertise. Fürs Produktdesign oder meinst du noch, was drum dran noch.
+
+[Xiayang Gu] 16:22:54
+Dazu kommen.
+
+[Mouaz Al Qudsi] 16:22:58
+Genau also über die Beispiele, die du ernennt hast.
+
+[Xiayang Gu] 16:23:05
+Okay. Ja. Für.
+
+[Xiayang Gu] 16:23:07
+Für das Design, selbst wenn man halt gar keine, also erst mal Grundidee, also nicht so richtig Idee haben oder aber mehrere Idee haben, dass man halt schnell.
+
+[Xiayang Gu] 16:23:18
+Entscheidungen treffen zu möchten, dann empfehle ich dann direkt.
+
+[Xiayang Gu] 16:23:24
+Die Nutzung von Software angeboten gibt.
+
+[Xiayang Gu] 16:23:29
+Ich weiß nicht, ob dann noch extra Lizenz dazu kaufen müssen, usw. muss man sich dann Angebot holen und Anfragen stellen.
+
+[Xiayang Gu] 16:23:38
+Ob das Inbegriff da drin mit additiv.
+
+[Xiayang Gu] 16:23:42
+Oder gibt es auch viele.
+
+[Xiayang Gu] 16:23:47
+Machines, Learning, Additive Design oder Halt, auch.
+
+[Xiayang Gu] 16:23:54
+Oh, uh. Genau so was Plugins usw., und dann.
+
+[Mouaz Al Qudsi] 16:23:54
+Also this V. Plugins mehr so oder so.
+
+[Xiayang Gu] 16:24:00
+Wenn das gibt, diese Möglichkeit gibt, würde ich dann schon benutzen.
+
+[Xiayang Gu] 16:24:05
+Das ist definitiv. Da muss man selber nicht mehr drum kümmern, zu programmieren usw. Das ist schon auch.
+
+[Xiayang Gu] 16:24:10
+Ja Softwareanbieter, eigenem.
+
+[Xiayang Gu] 16:24:14
+Quasi Technologie.
+
+[Xiayang Gu] 16:24:17
+Irgendwie nicht mehr schnell hinbekommen können.
+
+[Xiayang Gu] 16:24:23
+Aber wenn man dann halt in.
+
+[Xiayang Gu] 16:24:25
+Nothing, I. Dass man halt schnell mehrere Sachen gleichzeitig beenden möchte.
+
+[Xiayang Gu] 16:24:31
+Oder was da hive firm. Dann genau mehrere verschiedene 1ätze nochmal.
+
+[Xiayang Gu] 16:24:38
+Im Vergleich, so können verschiedene Ansatz oder verschiedene Randbedingungen, dass man halt.
+
+[Xiayang Gu] 16:24:43
+Solche Ergebnisse vergleichen möchten.
+
+[Xiayang Gu] 16:24:46
+Da würde ich sagen.
+
+[Xiayang Gu] 16:24:49
+Ja zum Pyramiden zu automatisieren, ganz einfach Python oder C oder Bash.
+
+[Xiayang Gu] 16:24:53
+Das reicht schon aber nicht unbedingt machines Learning, weil, wie gesagt, Machines Learning.
+
+[Xiayang Gu] 16:24:57
+Muss man halt sehr viel investieren mit der Programmierung und testen und vor allem die Menge.
+
+[Xiayang Gu] 16:25:04
+Trainingsdaten muss man irgendwo herhaben.
+
+[Mouaz Al Qudsi] 16:25:07
+Yep.
+
+[Mouaz Al Qudsi] 16:25:10
+Okay. Thank you. Soon. Yeah.
+
+[Olaf Pick] 16:25:12
+Okay, aber vielleicht zum zum Schluss noch Chaiang: der letzte Satz, den du gesagt hast: Man muss da viel investieren, man braucht auch eine Menge Trainingsdaten.
+
+[Xiayang Gu] 16:25:12
+I hope you.
+
+[Xiayang Gu] 16:25:22
+You know.
+
+[Olaf Pick] 16:25:22
+Es gibt ja Anbieter, die das Ganze per Cloud anbieten, also die dir diesen Service sozusagen anbieten.
+
+[Olaf Pick] 16:25:29
+Ich habe aber verstanden, dass die meisten produzierenden Unternehmen.
+
+[Olaf Pick] 16:25:34
+Nicht unbedingt bereit sind.
+
+[Olaf Pick] 16:25:37
+Ihre spezifischen ingenieurkenntnisse Mit der cloud Zu teilen weil, sie sagen.
+
+[Olaf Pick] 16:25:44
+Die Verarbeitung von Aluminium und von Stahl.
+
+[Olaf Pick] 16:25:47
+Da gibt es Dinge, die sind offiziell überall verfügbar.
+
+[Olaf Pick] 16:25:51
+Es gibt aber bestimmte Erfahrungswerte, die wir hier gesammelt haben, in unserem Unternehmen, bezogen auf unsere Art zu produzieren, bezogen auf die Anforderungen der Kunden.
+
+[Olaf Pick] 16:26:00
+Die wir als Ip sozusagen betrachten, die wir auch nicht unbedingt teilen möchten.
+
+[Olaf Pick] 16:26:05
+und wenn ich jetzt eine Maschine.
+
+[Olaf Pick] 16:26:09
+Mit Daten füttere, die mir am Ende des Tages automatisiert.
+
+[Olaf Pick] 16:26:14
+Designvorschläge ausspucken soll.
+
+[Olaf Pick] 16:26:17
+Dann ist ja die Datenlage in dieser Maschine, die kommen ja dann wahrscheinlich aus 2 Richtungen, die eine Richtung ist, eine externe Richtung.
+
+[Olaf Pick] 16:26:25
+Da hole ich mir also.
+
+[Olaf Pick] 16:26:27
+Daten über die Ausgangsmaterialien, über.
+
+[Olaf Pick] 16:26:32
+Kosten über Logistikkosten, vielleicht auch über bestimmte regulatorische Bedingungen. Compliance Daten, die ich erfüllen muss, aus Datenbanken, die ich mir zukaufe.
+
+[Olaf Pick] 16:26:42
+und der Designprozess.
+
+[Olaf Pick] 16:26:45
+An sich, wo es dann um die Geometrie geht und.
+
+[Olaf Pick] 16:26:47
+Um das eigentliche Werkstück.
+
+[Olaf Pick] 16:26:49
+Der wird ja dann sehr stark, auch von deinen persönlichen Erfahrungen quasi bestimmt.
+
+[Olaf Pick] 16:26:55
+Dass du sagen kannst. Ich habe in den letzten keine Ahnung 10 Jahren bei diesem Form von Design die Erfahrung gemacht, dass.
+
+[Olaf Pick] 16:27:02
+Man hier auf eine andere Wandstärke gehen kann, wenn man bestimmte Dinge berücksichtigt.
+
+[Olaf Pick] 16:27:06
+und das möchte ich gerne in der Maschine auch berücksichtigt wissen.
+
+[Olaf Pick] 16:27:11
+Sodass also dann das Ergebnis, was mir dieser Machine Learning algorithmus bringen soll, eine Mischung ist aus meinen persönlichen Erfahrungen.
+
+[Olaf Pick] 16:27:18
+und den von außen eingespielten Informationen von Datenbanken.
+
+[Xiayang Gu] 16:27:28
+Ich glaube, das gibt es auch Möglichkeit.
+
+[Xiayang Gu] 16:27:33
+Dass man halt extra noch Daten hinzufügen können.
+
+[Olaf Pick] 16:27:37
+Yeah?
+
+[Xiayang Gu] 16:27:38
+Durch den Hintergrund, und wenn man halt auch selbst noch mal die Daten.
+
+[Xiayang Gu] 16:27:43
+Ohne Material forscht.
+
+[Xiayang Gu] 16:27:45
+und mit eigenen Eigenschaften zusammen spielen möchten, dann kann man auch als extra Datenbank hinzufügen.
+
+[Xiayang Gu] 16:27:53
+und damit auch das.
+
+[Xiayang Gu] 16:27:54
+Yeah, automatisch lernt.
+
+[Xiayang Gu] 16:27:58
+und ich glaube.
+
+[Xiayang Gu] 16:28:01
+Also martial Software, gibt es auch solche Vertragsbestimmungen, dass man da halt irgendwie geheim halten müssen, dass daheim nicht dann im dritten.
+
+[Xiayang Gu] 16:28:11
+Weitergeben soll, und bei uns gibt es auch. Wir haben auch ein paar Rechnungen oder.
+
+[Xiayang Gu] 16:28:17
+Wir sind ja eigentlich als Dienstleister, und wir brechen auch für Finn, Automobilindustrie.
+
+[Xiayang Gu] 16:28:22
+und die geben auch die Daten verschlüsselt zu uns weiter.
+
+[Xiayang Gu] 16:28:28
+Wir können das benutzen, aber wir können nicht sehen, was da drin genau steht.
+
+[Olaf Pick] 16:28:29
+Ja.
+
+[Olaf Pick] 16:28:32
+Verstehe. Okay.
+
+[Olaf Pick] 16:28:34
+Guter Punkt.
+
+[Xiayang Gu] 16:28:35
+Yep.
+
+[Olaf Pick] 16:28:37
+Okay, ja, super. Erst mal. Vielen Dank für die ganzen Insights. Da sind wir teilweise noch sehr.
+
+[Olaf Pick] 16:28:41
+Tief eingetaucht. Ich gucke jetzt mal Richtung Moos muas, hast du noch einen Punkt: wo du sagst, das wäre schön, wenn wir da noch kurz drüber sprechen können, gibt es noch Irgendwas Was Dir Einfällt.
+
+[Mouaz Al Qudsi] 16:28:53
+Ich würde sagen, es gibt viele Punkte. Ich würde gerne mehr so in der Aditis von der.
+
+[Mouaz Al Qudsi] 16:28:59
+Automatisierung gehen und der Ml Modell, aber wir haben schon.
+
+[Mouaz Al Qudsi] 16:29:03
+Viel getauscht, aber. Aber erst mal jetzt also, es ist schon in Ordnung, also.
+
+[Mouaz Al Qudsi] 16:29:10
+Ich bin für heute zufrieden. Vielen Dank, Janke.
+
+[Xiayang Gu] 16:29:15
+As Claya. Bitte schön. Sehr gerne.
+
+[Olaf Pick] 16:29:16
+Ja super. Also danke, dass er dir die Zeit genommen hast. Ich hoffe, es war für dich auch so ein Kleines bisschen Insightful, was uns so interessiert hat.
+
+[Xiayang Gu] 16:29:24
+Yeah. Kein Problem.
+
+[Olaf Pick] 16:29:26
+Alles klar. Caiang: Wenn du noch irgendwelche Fragen grundsätzlich haben solltest oder von uns in irgendeiner anderen Form eine Unterstützung Haben Möchtest Dann Gib Bitte Bescheid.
+
+[Xiayang Gu] 16:29:37
+Yep, that's. Klar darf nur kurz fahren: Habt ihr dann schon.
+
+[Xiayang Gu] 16:29:42
+Eine Firma gegründet oder ist noch im überlegen oder in Bearbeitung und.
+
+[Olaf Pick] 16:29:45
+Let Letzteres, wir sind.
+
+[Xiayang Gu] 16:29:46
+Yeah?
+
+[Olaf Pick] 16:29:47
+Wir sind im Moment in dem Stadium.
+
+[Olaf Pick] 16:29:49
+Wo wir gucken, ob dieses Problemfeld diese Ideen, die damit verbunden sind.
+
+[Olaf Pick] 16:29:55
+Funktionieren können, und um das einschätzen zu können, sprechen wir gerade mit ganz vielen unterschiedlichen Menschen.
+
+[Olaf Pick] 16:30:01
+Die mit dem Thema Produktdesign zu tun haben, auf den unterschiedlichsten Ebenen.
+
+[Olaf Pick] 16:30:06
+Weil wir besser verstehen wollen.
+
+[Xiayang Gu] 16:30:07
+Okay, Mhm.
+
+[Olaf Pick] 16:30:08
+Was ist denn in der Praxis also jetzt im Moment, so wie du dich damit beschäftigst.
+
+[Olaf Pick] 16:30:14
+Wie sieht da deine Herausforderung aus? Was sind denn.
+
+[Olaf Pick] 16:30:17
+Die Dinge, die dich stören oder wo du sagst, das müsste eigentlich besser laufen.
+
+[Olaf Pick] 16:30:22
+Weil das sind häufig andere Sachen als die, die man sich theoretisch vorstellt.
+
+[Xiayang Gu] 16:30:27
+Ja genau und ja, wie ich da halt auch dieser ganze Prozess, dass man halt auch zum Beispiel für die Simulation.
+
+[Xiayang Gu] 16:30:36
+Dann muss auch die Kenntnis haben.
+
+[Xiayang Gu] 16:30:38
+Um die Ergebnisse, ob das überhaupt richtig. Man muss mal schon ingenieurtechnisch oder halt materialwissenschaft Schon im hintergrund Haben.
+
+[Xiayang Gu] 16:30:47
+und damit man gar nicht okay. Ergebnisse schön, aber das dann komplett falsch ist.
+
+[Olaf Pick] 16:30:49
+Yeah?
+
+[Xiayang Gu] 16:30:54
+und das ist auch nicht.
+
+[Olaf Pick] 16:30:55
+Ja.
+
+[Olaf Pick] 16:30:57
+Das ist das, was ich ganz zum Schluss meinte, mit deinen persönlichen Erfahrungen als ingenieur.
+
+[Olaf Pick] 16:31:02
+Einschätzen zu können, ob das Ergebnis, was die Maschine dir gibt.
+
+[Olaf Pick] 16:31:06
+Auf Basis der Erfahrungen, die du hast.
+
+[Olaf Pick] 16:31:08
+Sinn macht.
+
+[Olaf Pick] 16:31:16
+Weil die Maschine kann. Zwar.
+
+[Olaf Pick] 16:31:18
+Dinge lernen und auch physikalische Prinzipien versuchen anzuwenden.
+
+[Olaf Pick] 16:31:24
+Aber von dem konkreten Einzelfall, den du dir vorstellst, dass wirklich eine gangbare Lösung ist oder ob du sagst, das funktioniert leider nur Theoretisch.
+
+[Olaf Pick] 16:31:33
+Weil es bestimmte Ausgangsparameter gibt, die jetzt vielleicht in meinem Algorithmus noch nicht abgebildet sind, die aber am Ende des Tages darüber entscheiden.
+
+[Olaf Pick] 16:31:41
+Ob der Designvorschlag auch ausführbar ist oder nicht. Da sehe ich.
+
+[Olaf Pick] 16:31:46
+Im Moment noch sehr stark den human in the loop, also den Menschen, der das dann am Ende des Tages begutachten und dann auch entscheiden muss.
+
+[Xiayang Gu] 16:31:53
+Genau das ist auch wichtig.
+
+[Xiayang Gu] 16:31:56
+Also, wenn man Design für Design, Produktdesigner oder allgemein Bauteile zu konstruieren, und das ist halt auch von Anfang an immer Menschlich Zu Machen.
+
+[Xiayang Gu] 16:32:07
+und wenn man da halt gewisse Zeitpunkt, wo man mehrere Produkte schon hat und diesen wirklich gut funktioniert.
+
+[Xiayang Gu] 16:32:15
+und dann fängt man an, zu automatisieren oder.
+
+[Xiayang Gu] 16:32:20
+Sogar mit einem schönen einzusetzen, aber von Anfang an.
+
+[Xiayang Gu] 16:32:25
+Da muss man schon unbedingt menschlich überprüfen und eingreifen, ob das überhaupt.
+
+[Olaf Pick] 16:32:30
+Yeah?
+
+[Xiayang Gu] 16:32:30
+Sinnvoll ist mit den Ergebnisse oder Halt. Man muss auch verstehen.
+
+[Xiayang Gu] 16:32:36
+Diese Ergebnis so gut, aber beim Prototyp irgendwie schon ganz schnell kaputt.
+
+[Xiayang Gu] 16:32:40
+und da muss man auch analysieren können und welche Schritte schiefgelaufen ist. Oder war.
+
+[Xiayang Gu] 16:32:47
+und dann halt auch ja sofort verstehen und dann halt korrigieren zu können.
+
+[Olaf Pick] 16:32:47
+Yeah?
+
+[Olaf Pick] 16:32:54
+Absolut also so eine Art Feedback Loop wieder in deinem Ergebnismodell. Ja.
+
+[Xiayang Gu] 16:32:57
+You know, you know.
+
+[Olaf Pick] 16:33:00
+Ja. Ja. Super.
+
+[Olaf Pick] 16:33:01
+Vielen Dank für deine Zeit.
+
+[Xiayang Gu] 16:33:05
+Let me do it.
+
+[Olaf Pick] 16:33:06
+Ich wünsch dir erst mal ein schönes Wochenende und einen schönen Ausklang von diesem Jahr.
+
+[Olaf Pick] 16:33:11
+und wie gesagt, das Angebot steht: wenn wir irgendwas für dich tun können oder du Informationen brauchst, dann.
+
+[Xiayang Gu] 16:33:12
+I'm good.
+
+[Olaf Pick] 16:33:16
+Sprich uns gerne an.
+
+[Xiayang Gu] 16:33:19
+Alles klar, dann wünsche euch auch dann.
+
+[Xiayang Gu] 16:33:22
+Schönen Weihnachtsfeiern und auch schön rutsch. Ein Neues Jahr.
+
+[Olaf Pick] 16:33:25
+Danke.
+
+[Mouaz Al Qudsi] 16:33:26
+Danke. Sharing. Schöne Ferien auch Ciao.
+
+[Xiayang Gu] 16:33:29
+Choose your.
+
+[Olaf Pick] 16:33:30
+And uh yeah.
+
