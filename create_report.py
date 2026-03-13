@@ -116,6 +116,40 @@ def thin_gap(doc, pts=3):
     p.paragraph_format.space_after  = Pt(pts)
 
 
+def add_quote(doc, quote_text, attribution, icode):
+    """Blockquote with left border, italic text, attribution line."""
+    # Quote paragraph
+    p = doc.add_paragraph()
+    p.paragraph_format.space_before = Pt(4)
+    p.paragraph_format.space_after  = Pt(1)
+    p.paragraph_format.left_indent  = Cm(0.8)
+    p.paragraph_format.right_indent = Cm(0.5)
+    # Left border bar
+    pPr = p._p.get_or_add_pPr()
+    pBdr = OxmlElement('w:pBdr')
+    left = OxmlElement('w:left')
+    left.set(qn('w:val'),   'single')
+    left.set(qn('w:sz'),    '12')
+    left.set(qn('w:space'), '6')
+    left.set(qn('w:color'), '1A5F8A')
+    pBdr.append(left)
+    pPr.append(pBdr)
+    r = p.add_run(f'"{quote_text}"')
+    r.italic = True
+    r.font.size = Pt(9)
+    r.font.color.rgb = DARK_BLUE
+    # Attribution line
+    p2 = doc.add_paragraph()
+    p2.paragraph_format.space_before = Pt(0)
+    p2.paragraph_format.space_after  = Pt(5)
+    p2.paragraph_format.left_indent  = Cm(0.8)
+    p2.alignment = WD_ALIGN_PARAGRAPH.LEFT
+    r2 = p2.add_run(f'\u2014 {attribution}  \u00b7  {icode}')
+    r2.font.size  = Pt(8)
+    r2.font.italic = True
+    r2.font.color.rgb = ACCENT
+
+
 # ── Pie chart ─────────────────────────────────
 def make_pie():
     labels  = ['Engineering\n270 (72.8%)',
@@ -211,7 +245,11 @@ def build():
         'a Berlin-based deep-tech start-up building an AI-powered Product Intelligence Engine for '
         'mechanical product development. The database covers version 1.7 of the internal CI database, '
         'built on 44 qualitative expert interviews and systematic market research.'
-    ), sa=5)
+    ), sa=3)
+    add_quote(doc,
+        'No one cares about sustainability unless it means money.',
+        'CEO, Electronics OEM',
+        'I5 · LFL White Paper, Feb. 2026')
 
     # KPI table
     add_h2(doc, 'Database at a Glance')
@@ -305,6 +343,16 @@ def build():
                 'enterprise market, while start-ups pioneer new approaches for digital thread concepts, '
                 'collaborative requirements management and AI-driven data aggregation.'
             ),
+            'quotes': [
+                ('Product data resides in multiple different enterprise applications… '
+                 'the silos don\'t work anymore.',
+                 'Implementation Consultant, Engineering Software Consulting',
+                 'I1 · LFL White Paper, Feb. 2026'),
+                ('The tools could today already do much more than we use… '
+                 'we are still using plain Word and Excel.',
+                 'Mechanical Engineer, Engineering Services',
+                 'I11 · LFL White Paper, Feb. 2026'),
+            ],
             'bullets': [
                 'Sub-categories: MBSE & Systems Engineering · PLM & PDM Platforms · Engineering Collaboration & Data · CAD & Modeling',
                 'LFL relevance: The "Data Desert" finding from the White Paper (fragmented PLM/ERP data) is the central gap that LFL\'s Product Intelligence Engine aims to close',
@@ -321,6 +369,16 @@ def build():
                 'Despite comparatively fewer companies, the depth of problem-solving is high — and '
                 'measurable customer pain is substantial.'
             ),
+            'quotes': [
+                ('Ideally, this was supposed to happen a lot earlier in our design phase… '
+                 'now we have to change this, and it\'s like, why haven\'t I got this information earlier?',
+                 'Senior Designer, Engineering Services',
+                 'I19 · LFL White Paper, Feb. 2026'),
+                ('Designers are often the last to know about the final price… '
+                 'there are sometimes surprises at the last stage.',
+                 'Design Engineer, Automotive OEM',
+                 'I20 · LFL White Paper, Feb. 2026'),
+            ],
             'bullets': [
                 'Sub-categories: A — RfP/Bid Response Management · B — E-Sourcing/RfQ · C — CPQ (Configure Price Quote) · D — Supply Chain Planning',
                 'LFL relevance: LFL\'s RFQ module (in development from Q2 2026) and quote cost analysis directly address problems in sub-clusters B and C',
@@ -338,6 +396,12 @@ def build():
                 'driven by EU regulatory pressure. Only 2 established large companies (CarbonBright, '
                 'Sphera) have gained a foothold so far.'
             ),
+            'quotes': [
+                ('It\'s a bit of a painful process… the board sends us back to recalculate, '
+                 'and it takes such a long time.',
+                 'Sustainability Manager, Material Handling',
+                 'I31 · LFL White Paper, Feb. 2026'),
+            ],
             'bullets': [
                 'Sub-categories: LCA Software & Platforms · Carbon & Eco-Design · Circular Economy & R-Strategies · Regulatory & Compliance (DPP)',
                 'LFL relevance: LFL\'s "Carbon Case" (10.5M tCO₂e savings by year 10) and real-time CO₂ feedback position LFL as a bridge between Engineering and Sustainability',
@@ -349,6 +413,8 @@ def build():
     for seg in segments:
         add_h2(doc, seg['title'], color=seg['color'])
         add_para(doc, seg['body'], sa=3)
+        for q_text, q_attr, q_code in seg.get('quotes', []):
+            add_quote(doc, q_text, q_attr, q_code)
         for b in seg['bullets']:
             add_bullet(doc, b)
         thin_gap(doc, 4)
@@ -410,29 +476,59 @@ def build():
          '"The price tag decides everything" — the near-universal sentiment from 44 LFL expert interviews. '
          'This is directly reflected in the CPQ and RfQ world: engineers spend 30–40% of their time on '
          'quoting rather than design, because configuration and pricing are manual, error-prone and '
-         'completely decoupled from the CAD model.'),
+         'completely decoupled from the CAD model.',
+         [('The price tag is the one thing that decides all and everything.',
+           'General Manager, Packaging OEM',
+           'I4 · LFL White Paper, Feb. 2026'),
+          ('The primary question is always "what does it cost?" — everything else is secondary.',
+           'Senior Director of Strategy, Consulting',
+           'I15 · LFL White Paper, Feb. 2026')]),
         ('The "Data Desert"',
          'Critical product data — CO₂ footprints, supplier prices, manufacturing constraints — are scattered '
          'across PLM, ERP, Excel and local documents. The result: RfP teams rewrite 30–40% of all responses '
          'from scratch even though the information exists somewhere in the organisation. '
-         'The Loopio benchmark measures 17+ hours per RfP response.'),
+         'The Loopio benchmark measures 17+ hours per RfP response.',
+         [('Product data resides in multiple different enterprise applications… '
+           'the silos don\'t work anymore.',
+           'Implementation Consultant, Engineering Software Consulting',
+           'I1 · LFL White Paper, Feb. 2026'),
+          ('We are still using plain Word and Excel for high-stakes decision-making.',
+           'Mechanical Engineer, Engineering Services',
+           'I11 · LFL White Paper, Feb. 2026')]),
         ('The "Redesign Trap"',
          'Because quoting and CAD design are fully decoupled, 50–70% of all engineering changes originate '
          'from inconsistency between quote and CAD (DriveWorks studies). Every late change multiplies cost — '
-         'typically 5–15% of order value in error correction after contract award.'),
+         'typically 5–15% of order value in error correction after contract award.',
+         [('Ideally, this was supposed to happen a lot earlier in our design phase… '
+           'why haven\'t I got this information earlier?',
+           'Senior Designer, Engineering Services',
+           'I19 · LFL White Paper, Feb. 2026'),
+          ('Designers are often the last to know about the final price… '
+           'there are sometimes surprises at the last stage.',
+           'Design Engineer, Automotive OEM',
+           'I20 · LFL White Paper, Feb. 2026')]),
         ('The "Tribal Knowledge" Erosion',
          'When experienced engineers retire, the implicit knowledge of why certain configurations work — '
          'or why certain suppliers are preferred — disappears. CPQ systems can only scale this knowledge '
-         'if it is explicitly codified. Today, that codification largely does not exist.'),
+         'if it is explicitly codified. Today, that codification largely does not exist.',
+         [('I call it Tribal-Knowledge. That is just with a few people — they know it all.',
+           'Product Development Team Lead, Automotive OEM',
+           'I25 · LFL White Paper, Feb. 2026'),
+          ('The junior doesn\'t know it all… the decision whether to go left or right '
+           'is usually not possible with his background.',
+           'Expert Interviewee, Automotive OEM',
+           'I29 · LFL White Paper, Feb. 2026')]),
     ]
 
-    for title, body in framing:
+    for title, body, quotes in framing:
         p = doc.add_paragraph()
         p.paragraph_format.space_before = Pt(5)
         p.paragraph_format.space_after  = Pt(1)
         r = p.add_run(f'■  {title}')
         r.bold = True; r.font.color.rgb = DARK_BLUE; r.font.size = Pt(10)
         add_para(doc, body, sa=2)
+        for q_text, q_attr, q_code in quotes:
+            add_quote(doc, q_text, q_attr, q_code)
     thin_gap(doc, 4)
 
     # Problem table
@@ -502,6 +598,11 @@ def build():
         add_para(doc, body, sa=2)
     thin_gap(doc, 3)
 
+    add_quote(doc,
+        'If I really want to develop something new, it takes four years… '
+        'and lower seven-digit development costs.',
+        'CEO, Manufacturing Machinery',
+        'I36 · LFL White Paper, Feb. 2026')
     add_para(doc,
         'Market size (Pitch Deck):  TAM € 16.6B · SAM € 5.6B · SOM € 98M  '
         '(415,000 mechanical engineering companies, engineering software CAGR 15%)',
@@ -668,30 +769,47 @@ def build():
          'quote calculation natively in the CAD-based engineering workflow. Tacton and DriveWorks come '
          'closest, but are not positioned as "Engineering-First" tools. LFL closes this gap with its '
          'Product Intelligence Engine — cost, compliance and CO₂ become native design parameters, '
-         'not downstream calculations.'),
+         'not downstream calculations.',
+         [('Ideally, this was supposed to happen a lot earlier in our design phase… '
+           'why haven\'t I got this information earlier?',
+           'Senior Designer, Engineering Services',
+           'I19 · LFL White Paper, Feb. 2026')]),
         ('SME-ready ETO-CPQ is missing',
          'The three CPQ providers (Tacton, DriveWorks, Elfsquad) are either enterprise-only or '
          'SolidWorks-exclusive. For the European mid-market (mechanical engineering, material handling), '
          'there is no affordable, CAD-agnostic CPQ solution for true ETO products. LFL\'s target segment '
-         '(OEM >30 employees in DACH/Benelux) is precisely this gap.'),
+         '(OEM >30 employees in DACH/Benelux) is precisely this gap.',
+         [('If I really want to develop something new, it takes four years… '
+           'and lower seven-digit development costs.',
+           'CEO, Manufacturing Machinery',
+           'I36 · LFL White Paper, Feb. 2026')]),
         ('CO₂ + cost in a single tool',
          'Only Tacton has begun integrating a CO₂ calculator into CPQ. The combination of real-time '
          'cost calculation, CO₂ feedback and quote generation in an engineer-centric interface does not '
          'yet exist. LFL\'s "Carbon Case" (up to 10.5M tCO₂e savings in year 10 at 14% market share) '
-         'positions this integration as a strategic differentiator.'),
+         'positions this integration as a strategic differentiator.',
+         [('It\'s a bit of a painful process… the board sends us back to recalculate, '
+           'and it takes such a long time.',
+           'Sustainability Manager, Material Handling',
+           'I31 · LFL White Paper, Feb. 2026')]),
         ('Tribal knowledge as competitive advantage',
          'No provider in the Sales & Quotes category explicitly addresses the codification of '
          'institutional engineering knowledge. LFL\'s "Operator Insights" module (repairability, '
          'circular economy) and Design Copilot approach create scalable digital knowledge infrastructure '
-         '— a genuine whitespace.'),
+         '— a genuine whitespace.',
+         [('I call it Tribal-Knowledge. That is just with a few people — they know it all.',
+           'Product Development Team Lead, Automotive OEM',
+           'I25 · LFL White Paper, Feb. 2026')]),
     ]
-    for i,(title,body) in enumerate(ws_items, 1):
+    for i,(title,body,quotes) in enumerate(ws_items, 1):
         p = doc.add_paragraph()
         p.paragraph_format.space_before = Pt(6)
         p.paragraph_format.space_after  = Pt(1)
         r = p.add_run(f'{i}.  {title}')
         r.bold=True; r.font.color.rgb=DARK_BLUE; r.font.size=Pt(11)
-        add_para(doc, body, sa=3)
+        add_para(doc, body, sa=2)
+        for q_text, q_attr, q_code in quotes:
+            add_quote(doc, q_text, q_attr, q_code)
     thin_gap(doc, 6)
 
     p = doc.add_paragraph()
@@ -712,6 +830,167 @@ def build():
         'Resilinc Supply Chain Disruption Study 2023; DriveWorks Engineering Change Studies; '
         'McKinsey Supply Chain Disruption Cost Analysis 2023; Center for Automotive Research 2026; '
         'EU Commission CSRD Regulation.'
+    ), size=7.5, color=RGBColor(0x80,0x80,0x90), sa=2)
+
+    doc.add_page_break()
+
+    # ══ 6  INTERVIEWEE SOURCE INDEX ═══════════
+    add_h1(doc, '6  Anonymized Interviewee Source Index')
+    add_para(doc, (
+        'The qualitative insights cited throughout this report are drawn from 44 expert interviews '
+        'conducted by LoopForgeLab between Q4 2025 and Q1 2026 as part of the White Paper research '
+        '("Optimized for Performance, Approved for Price", February 2026). All interviewees are '
+        'anonymized. The codes I1–I44 used as citations refer to the entries in the table below. '
+        'Company names are not disclosed; interviewees are identified solely by role category and industry.'
+    ), sa=5)
+
+    # ── 6.1  Full anonymized interviewee list ─
+    add_h2(doc, '6.1  Anonymized Interviewee Registry  (I1 – I44)')
+    int_rows = [
+        ('I1',  'Implementation Consultant, Co-Founder', 'Engineering Software Consulting'),
+        ('I2',  'Implementation Consultant, Co-Founder', 'Engineering Software Consulting'),
+        ('I3',  'Head of Brand & Design, Founder',       'Engineering Services'),
+        ('I4',  'General Manager',                       'Packaging'),
+        ('I5',  'CEO',                                   'Electronics OEM'),
+        ('I6',  'Business Developer, Co-Founder',        'Production Software'),
+        ('I7',  'Investor',                              'Production Software'),
+        ('I8',  'Head of Development & Pre-series',      'Automotive'),
+        ('I9',  'R&D Head',                              'Building Shadings'),
+        ('I10', 'R&D Head',                              'Electronics OEM'),
+        ('I11', 'Mechanical Engineer',                   'Engineering Services'),
+        ('I12', 'Mechanical Engineer',                   'Academia'),
+        ('I13', 'Co-Founder',                            'Engineering Services'),
+        ('I14', 'Process Engineer',                      'Packaging'),
+        ('I15', 'Senior Director of Strategy',           'Consulting'),
+        ('I16', 'Postdoctoral Researcher',               'Academia'),
+        ('I17', 'General Manager',                       'Electronics OEM'),
+        ('I18', 'Consultant, Founder',                   'Sustainability Consulting'),
+        ('I19', 'Product Designer, Founder',             'Engineering Services'),
+        ('I20', 'Design Engineer',                       'Automotive'),
+        ('I21', 'Civil Engineer',                        'Engineering Services'),
+        ('I22', 'Team Leader Strategy (Std. Products)',  'Electronics OEM'),
+        ('I23', 'Product Designer (Thermal Solutions)',  'Engineering Services'),
+        ('I24', 'Product & Process Engineer',            'Automotive OEM'),
+        ('I25', 'Product Development Team Lead',         'Automotive OEM'),
+        ('I26', 'Project Manager',                       'Electronics OEM'),
+        ('I27', 'Product & Process Engineer',            'Automotive OEM'),
+        ('I28', 'Consultant, Founder',                   'Engineering Services'),
+        ('I29', 'Advanced Design Engineer',              'Automotive OEM'),
+        ('I30', 'Consultant',                            'Engineering Software Consulting'),
+        ('I31', 'Sustainability Manager',                'Material Handling'),
+        ('I32', 'Product Manager',                       'Material Handling'),
+        ('I33', 'Product Developer',                     'Rail Rolling Stock'),
+        ('I34', 'CIO, Software Engineer',                'Cooling / HVAC'),
+        ('I35', 'Design Engineer',                       'Manufacturing Machinery'),
+        ('I36', 'CEO',                                   'Manufacturing Machinery'),
+        ('I37', 'Master of Engineering',                 'Battery / Energy'),
+        ('I38', 'SVP Design & Engineering',              'Tooling'),
+        ('I39', 'R&D Engineer',                          'Automotive'),
+        ('I40', 'Product Designer',                      'Product Design'),
+        ('I41', 'Design Engineer',                       'Aerospace'),
+        ('I42', 'Repair Design Engineer',                'Aerospace'),
+        ('I43', 'Program Manager Product Sustainability','Material Handling'),
+        ('I44', 'Head of Product Management',            'Material Handling'),
+    ]
+    int_hdrs = ['Code', 'Anonymized Role', 'Industry Sector']
+    int_w    = [Cm(1.4), Cm(7.4), Cm(8.5)]
+    itbl = doc.add_table(rows=1+len(int_rows), cols=3)
+    itbl.style = 'Table Grid'
+    itbl.alignment = WD_TABLE_ALIGNMENT.CENTER
+    for j,(h,w) in enumerate(zip(int_hdrs,int_w)):
+        c=itbl.cell(0,j); c.width=w; hdr_cell(c,h,bg='1A5F8A')
+    for i,(code,role,sector) in enumerate(int_rows):
+        bg='FFFFFF' if i%2==0 else 'F2F5F8'
+        data_cell(itbl.cell(i+1,0), code,   bg=bg, bold=True, color=ACCENT,   center=True, fs=8)
+        data_cell(itbl.cell(i+1,1), role,   bg=bg, fs=8)
+        data_cell(itbl.cell(i+1,2), sector, bg=bg, fs=8)
+    thin_gap(doc, 8)
+
+    # ── 6.2  Industry breakdown ───────────────
+    add_h2(doc, '6.2  Industry Distribution of Interviewees')
+    add_para(doc, (
+        'The 44 interviews span 16 distinct industries. The sample is intentionally broad to validate '
+        'that the identified barriers are systemic rather than sector-specific. The two largest groups — '
+        'Automotive OEM/Suppliers and Engineering Services — together account for 31.8% of interviews, '
+        'grounding the findings in high-complexity, high-volume discrete manufacturing contexts directly '
+        'relevant to LFL\'s target market.'
+    ), sa=4)
+
+    ind_rows = [
+        ('Automotive (OEM & Tier-1 Suppliers)',       '7',  '15.9%',
+         'I8, I20, I24, I25, I27, I29, I39',
+         'Process/Design Engineers, R&D, Team Leads, SVP'),
+        ('Engineering Services',                      '7',  '15.9%',
+         'I3, I11, I13, I19, I21, I23, I28',
+         'Designers, Engineers, Co-Founders'),
+        ('Engineering & Production Software',         '5',  '11.4%',
+         'I1, I2, I6, I7, I30',
+         'Consultants, Founders, Investors'),
+        ('Electronics OEM',                           '5',  '11.4%',
+         'I5, I10, I17, I22, I26',
+         'CEOs, GMs, R&D Heads, PMs, Team Leads'),
+        ('Material Handling',                         '4',   '9.1%',
+         'I31, I32, I43, I44',
+         'Sustainability Mgr, Product Mgr, Head PM, Program Mgr'),
+        ('Manufacturing Machinery',                   '2',   '4.5%',
+         'I35, I36',
+         'Design Engineer, CEO'),
+        ('Packaging',                                 '2',   '4.5%',
+         'I4, I14',
+         'General Manager, Process Engineer'),
+        ('Academia',                                  '2',   '4.5%',
+         'I12, I16',
+         'Mechanical Engineer, Postdoctoral Researcher'),
+        ('Aerospace',                                 '2',   '4.5%',
+         'I41, I42',
+         'Design Engineers, Repair Design Engineer'),
+        ('Consulting (incl. Sustainability)',          '2',   '4.5%',
+         'I15, I18',
+         'Senior Director Strategy, Consultant/Founder'),
+        ('Building / Infrastructure',                 '1',   '2.3%',
+         'I9',
+         'R&D Head'),
+        ('Rail Rolling Stock',                        '1',   '2.3%',
+         'I33',
+         'Product Developer'),
+        ('Cooling / HVAC',                            '1',   '2.3%',
+         'I34',
+         'CIO, Software Engineer'),
+        ('Battery / Energy',                          '1',   '2.3%',
+         'I37',
+         'Master of Engineering'),
+        ('Tooling',                                   '1',   '2.3%',
+         'I38',
+         'SVP Design & Engineering'),
+        ('Product Design (Consultancy)',              '1',   '2.3%',
+         'I40',
+         'Product Designer'),
+        ('TOTAL',                                    '44', '100.0%', '—', ''),
+    ]
+    ind_hdrs = ['Industry Sector', '# Inter-\nviewees', 'Share', 'Interviewee Codes', 'Key Roles Represented']
+    ind_w    = [Cm(4.3), Cm(1.5), Cm(1.4), Cm(3.8), Cm(6.3)]
+    indbtl = doc.add_table(rows=1+len(ind_rows), cols=5)
+    indbtl.style = 'Table Grid'
+    indbtl.alignment = WD_TABLE_ALIGNMENT.CENTER
+    for j,(h,w) in enumerate(zip(ind_hdrs,ind_w)):
+        c=indbtl.cell(0,j); c.width=w; hdr_cell(c,h)
+    bgs_ind = ['FFFFFF','F2F5F8'] * 9 + ['E8F4F8']
+    for i,(sector,n,pct,codes,roles) in enumerate(ind_rows):
+        bg   = bgs_ind[i]
+        bold = (i == len(ind_rows)-1)
+        col  = DARK_BLUE if bold else None
+        data_cell(indbtl.cell(i+1,0), sector, bg=bg, bold=bold, color=col, fs=8)
+        data_cell(indbtl.cell(i+1,1), n,      bg=bg, bold=bold, color=col, center=True, fs=8)
+        data_cell(indbtl.cell(i+1,2), pct,    bg=bg, bold=bold, color=col, center=True, fs=8)
+        data_cell(indbtl.cell(i+1,3), codes,  bg=bg, color=MID_BLUE, fs=7.5)
+        data_cell(indbtl.cell(i+1,4), roles,  bg=bg, fs=7.5)
+    thin_gap(doc, 5)
+
+    add_para(doc, (
+        'Note on anonymization: All interviewees consented to participation in LoopForgeLab\'s research. '
+        'No names, company names, or identifying details are disclosed. Codes I1–I44 are used exclusively '
+        'for internal cross-referencing between this report and the White Paper appendix. '
+        'Role descriptions are generalized where specificity could compromise anonymity.'
     ), size=7.5, color=RGBColor(0x80,0x80,0x90), sa=2)
 
     out = '/home/user/LFL_Competitor_Report/260313_LFL_Competitor_Report_EN.docx'
